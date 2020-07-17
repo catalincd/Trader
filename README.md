@@ -1,0 +1,2 @@
+# Trader
+ CSGO Tradeup BOT
