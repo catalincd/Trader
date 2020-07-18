@@ -28,6 +28,7 @@ namespace Trader
         {
             string price = GetPrice(weaponName);
             price = price.Replace(",", ".");
+            price.Replace("-", "0");
             float toReturn = 0;
             bool q = float.TryParse(price, out toReturn);
             if (!q) MessageBox.Show("" + price);

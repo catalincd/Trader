@@ -18,6 +18,8 @@ namespace Trader
         public List<Skin> skins;
         public List<Skin> currentSkins;
         public int skinsCount = 15;
+        public int counter = 0;
+        public string currentName = "";
         public string currentCollection;
         public string currentCondition;
         public string currentStat = "";
@@ -71,7 +73,8 @@ namespace Trader
                     currentSkins.Add(q);
                 }
             }
-            skinsCount = currentSkins.Count;
+            skinsCount = currentSkins.Count * 5;
+            counter = 0;
             progressBar1.Maximum = 100;
             progressBar1.Value = 0;
             label1.Text = "";
@@ -95,12 +98,12 @@ namespace Trader
                         string name = currentSkins[i].getFullName(currentStat, conditions[t]);
                         float newPrice = Price.GetPriceFloat(name);
                         currentSkins[i].prices.prices[t] = newPrice;
-                        //label1.Text += name + " - " + newPrice;
-                        //label1.Text += '\n';
+                        currentName = name + " - " + newPrice + "\n";
+                        worker.ReportProgress(((counter++) * 100 / skinsCount) + 1);
                         Thread.Sleep(3020);
                     }
                 }
-                worker.ReportProgress(i);
+               
                 //progressBar1.Value++;
             }
         }
@@ -119,11 +122,13 @@ namespace Trader
         private void BackgroundWorker1_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
             MessageBox.Show("Work completed");
+            progressBar1.Value = 100;
         }
 
         private void BackgroundWorker1_ProgressChanged(object sender, ProgressChangedEventArgs e)
         {
-            progressBar1.Value = e.ProgressPercentage * 100 / skinsCount;
+            progressBar1.Value = e.ProgressPercentage;
+            label1.Text += currentName;
         }
     }
 }
