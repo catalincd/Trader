@@ -27,7 +27,7 @@ namespace Trader
         {
             string path = Application.StartupPath + @"\weapons.txt";
             string paintkitsPath = Application.StartupPath + @"\paintkits.json";
-            string floatsPath = Application.StartupPath + @"\floats3.json";
+            string floatsPath = Application.StartupPath + @"\newFloats.txt";
             string writePath = Application.StartupPath + @"\baseFull.txt";
             string json = File.ReadAllText(path);
             string paintKitsJson = File.ReadAllText(paintkitsPath);
@@ -130,12 +130,12 @@ namespace Trader
         public static void parse5()
         {
             string path = Application.StartupPath + @"\floats2.txt";
-            string outPath = Application.StartupPath + @"\floats3.txt";
+            string outPath = Application.StartupPath + @"\newFloats.txt";
             string[] lines = File.ReadAllLines(path);
 
             List<string> output = new List<string>();
 
-            for (int i = 0; i < lines.Length; i += 2)
+            for (int i = 0; i < lines.Length; i ++)
             {
                 try
                 {
