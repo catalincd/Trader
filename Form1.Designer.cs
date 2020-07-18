@@ -38,9 +38,10 @@
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
             this.vScrollBar1 = new System.Windows.Forms.VScrollBar();
+            this.label1 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.menuStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -131,6 +132,13 @@
             this.panel1.Size = new System.Drawing.Size(269, 180);
             this.panel1.TabIndex = 9;
             // 
+            // vScrollBar1
+            // 
+            this.vScrollBar1.Location = new System.Drawing.Point(252, 0);
+            this.vScrollBar1.Name = "vScrollBar1";
+            this.vScrollBar1.Size = new System.Drawing.Size(17, 180);
+            this.vScrollBar1.TabIndex = 1;
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -139,13 +147,6 @@
             this.label1.Size = new System.Drawing.Size(41, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Guns...";
-            // 
-            // vScrollBar1
-            // 
-            this.vScrollBar1.Location = new System.Drawing.Point(252, 0);
-            this.vScrollBar1.Name = "vScrollBar1";
-            this.vScrollBar1.Size = new System.Drawing.Size(17, 180);
-            this.vScrollBar1.TabIndex = 1;
             // 
             // button2
             // 
@@ -156,6 +157,13 @@
             this.button2.Text = "Save File";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.Button2_Click);
+            // 
+            // backgroundWorker1
+            // 
+            this.backgroundWorker1.WorkerReportsProgress = true;
+            this.backgroundWorker1.DoWork += new System.ComponentModel.DoWorkEventHandler(this.BackgroundWorker1_DoWork);
+            this.backgroundWorker1.ProgressChanged += new System.ComponentModel.ProgressChangedEventHandler(this.BackgroundWorker1_ProgressChanged);
+            this.backgroundWorker1.RunWorkerCompleted += new System.ComponentModel.RunWorkerCompletedEventHandler(this.BackgroundWorker1_RunWorkerCompleted);
             // 
             // Form1
             // 
@@ -197,6 +205,7 @@
         private System.Windows.Forms.VScrollBar vScrollBar1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button2;
+        public System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
 

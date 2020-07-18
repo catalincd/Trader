@@ -6,14 +6,14 @@ Desert Eagle | Code Red,6,0.00,1.00,The Lake Collection
 Desert Eagle | Conspiracy,5,0.00,1.00,Operation Bravo Case
 Desert Eagle | Corinthian,3,0.00,0.44,eSports 2013 Winter Case
 Desert Eagle | Crimson Web,4,0.00,1.00,eSports 2014 Summer Case
-Desert Eagle | Directive,4,0.06,1.00,The Train Collection
+Desert Eagle | Directive,4,0.00,1.00,The Train Collection
 Desert Eagle | Emerald Jörmungandr,4,0.00,1.00,CS:GO Weapon Case 3
 Desert Eagle | Golden Koi,6,0.00,0.12,The Bank Collection
 Desert Eagle | Hand Cannon,4,0.00,1.00,The Cobblestone Collection
 Desert Eagle | Heirloom,4,0.00,0.80,The Baggage Collection
 Desert Eagle | Hypnotic,5,0.00,0.08,Operation Breakout Weapon Case
 Desert Eagle | Kumicho Dragon,5,0.00,1.00,Chroma Case
-Desert Eagle | Light Rail,4,0.00,0.90,Chroma 2 Case
+Desert Eagle | Light Rail,4,0.00,1.00,Chroma 2 Case
 Desert Eagle | Mecha Industries,5,0.00,1.00,The Rising Sun Collection
 Desert Eagle | Meteorite,3,0.00,0.18,The Rising Sun Collection
 Desert Eagle | Midnight Storm,2,0.00,1.00,The Rising Sun Collection
@@ -32,13 +32,13 @@ Dual Berettas | Black Limba,3,0.00,1.00,Operation Bravo Case
 Dual Berettas | Briar,1,0.00,1.00,The Cobblestone Collection
 Dual Berettas | Cartel,3,0.00,1.00,Operation Wildfire Case
 Dual Berettas | Cobalt Quartz,4,0.00,1.00,The Lake Collection
-Dual Berettas | Cobra Strike,5,0.00,0.60,Operation Hydra Case
+Dual Berettas | Cobra Strike,5,0.00,1.00,Operation Hydra Case
 Dual Berettas | Colony,1,0.00,1.00,The Train Collection
 Dual Berettas | Contractor,1,0.00,1.00,The Safehouse Collection
 Dual Berettas | Demolition,4,0.00,1.00,The Vertigo Collection
 Dual Berettas | Dualing Dragons,3,0.00,1.00,Shadow Case
 Dual Berettas | Duelist,4,0.00,1.00,The Chop Shop Collection
-Dual Berettas | Elite 1.6,3,0.00,0.70,CS20 Case
+Dual Berettas | Elite 1.6,3,0.00,1.00,CS20 Case
 Dual Berettas | Emerald,3,0.00,1.00,The Canals Collection
 Dual Berettas | Hemoglobin,4,0.00,0.20,CS:GO Weapon Case 2
 Dual Berettas | Marina,4,0.05,0.50,Winter Offensive Weapon Case
@@ -51,25 +51,25 @@ Dual Berettas | Shred,3,0.00,1.00,Horizon Case
 Dual Berettas | Stained,2,0.00,1.00,The Italy Collection
 Dual Berettas | Twin Turbo,5,0.00,1.00,The 2018 Inferno Collection
 Dual Berettas | Urban Shock,4,0.00,0.47,Chroma Case
-Dual Berettas | Ventilators,3,0.00,1.00,Chroma 3 Case
-Five-SeveN | Angry Mob,6,0.00,0.70,Prisma Case
+Dual Berettas | Ventilators,3,0.00,0.45,Chroma 3 Case
+Five-SeveN | Angry Mob,6,0.00,1.00,Prisma Case
 Five-SeveN | Anodized Gunmetal,1,0.00,0.08,The Alpha Collection
 Five-SeveN | Buddy,4,0.00,1.00,CS20 Case
 Five-SeveN | Candy Apple,2,0.00,0.30,The Assault Collection
-Five-SeveN | Capillary,3,0.00,0.70,Spectrum Case
+Five-SeveN | Capillary,3,0.00,1.00,Spectrum Case
 Five-SeveN | Case Hardened,4,0.00,1.00,CS:GO Weapon Case 2
 Five-SeveN | Contractor,1,0.00,1.00,The Mirage Collection
-Five-SeveN | Coolant,1,0.00,0.50,The 2018 Nuke Collection
+Five-SeveN | Coolant,1,0.00,1.00,The 2018 Nuke Collection
 Five-SeveN | Copper Galaxy,4,0.00,1.00,CS:GO Weapon Case 3
-Five-SeveN | Crimson Blossom,3,0.00,0.50,The St. Marc Collection
-Five-SeveN | Flame Test,3,0.00,0.65,Clutch Case
+Five-SeveN | Crimson Blossom,3,0.00,1.00,The St. Marc Collection
+Five-SeveN | Flame Test,3,0.00,1.00,Clutch Case
 Five-SeveN | Forest Night,1,0.00,1.00,The Train Collection
 Five-SeveN | Fowl Play,5,0.00,1.00,Operation Breakout Weapon Case
 Five-SeveN | Hot Shot,2,0.00,1.00,The Cache Collection
 Five-SeveN | Hyper Beast,6,0.00,1.00,Operation Hydra Case
 Five-SeveN | Jungle,1,0.00,1.00,The Aztec Collection
 Five-SeveN | Kami,3,0.00,0.30,Winter Offensive Weapon Case
-Five-SeveN | Monkey Business,5,0.00,1.00,Chroma 2 Case
+Five-SeveN | Monkey Business,5,0.10,0.90,Chroma 2 Case
 Five-SeveN | Neon Kimono,4,0.00,1.00,The Rising Sun Collection
 Five-SeveN | Nightshade,3,0.00,1.00,eSports 2013 Winter Case
 Five-SeveN | Nitro,3,0.00,1.00,The Chop Shop Collection
@@ -97,7 +97,7 @@ Glock-18 | Moonrise,4,0.00,1.00,Clutch Case
 Glock-18 | Night,2,0.00,1.00,The Overpass Collection
 Glock-18 | Nuclear Garden,4,0.00,1.00,The 2018 Nuke Collection
 Glock-18 | Off World,3,0.00,1.00,Spectrum 2 Case
-Glock-18 | Oxide Blaze,3,0.00,0.85,Danger Zone Case
+Glock-18 | Oxide Blaze,3,0.00,1.00,Danger Zone Case
 Glock-18 | Reactor,3,0.00,1.00,The Cache Collection
 Glock-18 | Royal Legion,4,0.00,1.00,Operation Wildfire Case
 Glock-18 | Sacrifice,3,0.00,1.00,CS20 Case
@@ -110,9 +110,9 @@ Glock-18 | Wasteland Rebel,6,0.00,1.00,Gamma Case
 Glock-18 | Water Elemental,5,0.00,1.00,Operation Breakout Weapon Case
 Glock-18 | Weasel,4,0.00,1.00,Gamma 2 Case
 Glock-18 | Wraiths,3,0.00,0.80,Shadow Case
-AK-47 | Aquamarine Revenge,6,0.00,1.00,Aquamarine Revenge
-AK-47 | Asiimov,6,0.00,1.00,Asiimov
-AK-47 | Baroque Purple,2,0.00,1.00,Baroque Purple
+AK-47 | Aquamarine Revenge,6,0.00,1.00,Falchion Case
+AK-47 | Asiimov,6,0.00,1.00,Danger Zone Case
+AK-47 | Baroque Purple,2,0.00,1.00,The Canals Collection
 AK-47 | Black Laminate,3,0.00,1.00,The Vertigo Collection
 AK-47 | Bloodsport,6,0.00,1.00,Spectrum Case
 AK-47 | Blue Laminate,4,0.02,0.40,eSports 2013 Winter Case
@@ -129,16 +129,16 @@ AK-47 | Jaguar,6,0.00,1.00,eSports 2014 Summer Case
 AK-47 | Jet Set,5,0.00,1.00,The Baggage Collection
 AK-47 | Jungle Spray,2,0.00,1.00,The Aztec Collection
 AK-47 | Neon Revolution,6,0.00,1.00,Gamma 2 Case
-AK-47 | Neon Rider,6,0.00,0.80,Horizon Case
-AK-47 | Orbit Mk01,4,0.00,0.55,Operation Hydra Case
-AK-47 | Phantom Disruptor,5,0.00,0.65,Prisma 2 Case
+AK-47 | Neon Rider,6,0.00,1.00,Horizon Case
+AK-47 | Orbit Mk01,4,0.00,1.00,Operation Hydra Case
+AK-47 | Phantom Disruptor,5,0.00,1.00,Prisma 2 Case
 AK-47 | Point Disarray,5,0.00,1.00,Revolver Case
 AK-47 | Predator,2,0.00,1.00,The Dust Collection
 AK-47 | Rat Rod,4,0.00,1.00,Shattered Web Case
 AK-47 | Red Laminate,5,0.00,1.00,eSports 2013 Case
 AK-47 | Redline,5,0.00,1.00,Operation Phoenix Weapon Case
 AK-47 | Safari Mesh,2,0.00,1.00,The Dust 2 Collection
-AK-47 | Safety Net,4,0.00,0.60,The 2018 Inferno Collection
+AK-47 | Safety Net,4,0.00,1.00,The 2018 Inferno Collection
 AK-47 | The Empress,6,0.00,1.00,Spectrum 2 Case
 AK-47 | Uncharted,3,0.00,1.00,Prisma Case
 AK-47 | Vulcan,6,0.00,0.90,Huntsman Weapon Case
@@ -147,7 +147,7 @@ AK-47 | Wild Lotus,6,0.00,1.00,The St. Marc Collection
 AUG | Akihabara Accept,6,0.00,1.00,The Rising Sun Collection
 AUG | Amber Slipstream,3,0.00,1.00,Horizon Case
 AUG | Anodized Navy,3,0.00,0.08,The Alpha Collection
-AUG | Arctic Wolf,4,0.00,0.70,Shattered Web Case
+AUG | Arctic Wolf,4,0.00,1.00,Shattered Web Case
 AUG | Aristocrat,4,0.00,1.00,Gamma Case
 AUG | Bengal Tiger,5,0.00,1.00,eSports 2014 Summer Case
 AUG | Chameleon,6,0.00,1.00,Operation Phoenix Weapon Case
@@ -157,11 +157,11 @@ AUG | Contractor,1,0.00,1.00,The Italy Collection
 AUG | Copperhead,3,0.00,1.00,The Dust Collection
 AUG | Daedalus,1,0.00,0.55,The Gods and Monsters Collection
 AUG | Death by Puppy,5,0.00,1.00,CS20 Case
-AUG | Flame Jörmungandr,4,0.00,0.50,The Norse Collection
+AUG | Flame Jörmungandr,4,0.00,1.00,The Norse Collection
 AUG | Fleet Flock,5,0.00,1.00,Chroma 3 Case
 AUG | Hot Rod,3,0.00,1.00,The Assault Collection
-AUG | Midnight Lily,4,0.00,0.50,The St. Marc Collection
-AUG | Momentum,5,0.05,1.00,Prisma Case
+AUG | Midnight Lily,4,0.00,1.00,The St. Marc Collection
+AUG | Momentum,5,0.00,1.00,Prisma Case
 AUG | Navy Murano,1,0.00,1.00,The Canals Collection
 AUG | Radiation Hazard,2,0.00,1.00,The Cache Collection
 AUG | Random Access,4,0.00,1.00,The 2018 Nuke Collection
@@ -169,31 +169,31 @@ AUG | Ricochet,3,0.00,0.80,Revolver Case
 AUG | Storm,1,0.00,1.00,The Lake Collection
 AUG | Stymphalian,5,0.00,1.00,Clutch Case
 AUG | Sweeper,1,0.00,1.00,The 2018 Inferno Collection
-AUG | Syd Mead,5,0.00,0.80,Gamma 2 Case
+AUG | Syd Mead,5,0.00,1.00,Gamma 2 Case
 AUG | Tom Cat,3,0.00,1.00,Prisma 2 Case
 AUG | Torque,4,0.00,1.00,Huntsman Weapon Case
 AUG | Triqua,3,0.00,1.00,Spectrum 2 Case
 AUG | Wings,3,0.00,0.14,CS:GO Weapon Case
-AWP | Acheron,3,0.00,0.83,The 2018 Nuke Collection
+AWP | Acheron,3,0.00,1.00,The 2018 Nuke Collection
 AWP | Asiimov,6,0.18,1.00,Operation Phoenix Weapon Case
 AWP | Atheris,4,0.00,1.00,Prisma Case
 AWP | BOOM,5,0.00,1.00,eSports 2013 Case
-AWP | Capillary,3,0.05,0.70,Prisma 2 Case
+AWP | Capillary,3,0.00,1.00,Prisma 2 Case
 AWP | Containment Breach,6,0.00,1.00,Shattered Web Case
 AWP | Corticera,5,0.00,1.00,eSports 2014 Summer Case
 AWP | Dragon Lore,6,0.00,0.70,The Cobblestone Collection
 AWP | Electric Hive,5,0.00,1.00,eSports 2013 Winter Case
 AWP | Elite Build,5,0.00,1.00,Operation Wildfire Case
-AWP | Fever Dream,5,0.00,0.55,Spectrum Case
+AWP | Fever Dream,5,0.00,1.00,Spectrum Case
 AWP | Graphite,5,0.00,0.12,Operation Bravo Case
-AWP | Gungnir,6,0.00,0.60,The Norse Collection
+AWP | Gungnir,6,0.00,1.00,The Norse Collection
 AWP | Hyper Beast,6,0.00,1.00,Falchion Case
 AWP | Lightning Strike,6,0.00,1.00,CS:GO Weapon Case
 AWP | Man-o'-war,6,0.00,1.00,Chroma Case
 AWP | Medusa,6,0.00,1.00,The Gods and Monsters Collection
-AWP | Mortis,5,0.00,0.64,Clutch Case
+AWP | Mortis,5,0.00,1.00,Clutch Case
 AWP | Neo-Noir,6,0.00,1.00,Danger Zone Case
-AWP | Oni Taiji,6,0.00,0.50,Operation Hydra Case
+AWP | Oni Taiji,6,0.00,1.00,Operation Hydra Case
 AWP | PAW,4,0.00,1.00,Horizon Case
 AWP | Phobos,4,0.00,1.00,Gamma Case
 AWP | Pink DDPAT,4,0.00,1.00,The Overpass Collection
@@ -209,17 +209,17 @@ FAMAS | Afterimage,5,0.02,0.40,eSports 2013 Winter Case
 FAMAS | Colony,1,0.00,1.00,The Italy Collection
 FAMAS | Commemoration,6,0.00,1.00,CS20 Case
 FAMAS | Contrast Spray,1,0.00,1.00,The Office Collection
-FAMAS | Crypsis,3,0.00,0.55,Prisma Case
+FAMAS | Crypsis,3,0.00,1.00,Prisma Case
 FAMAS | Cyanospatter,2,0.00,1.00,The Lake Collection
 FAMAS | Decommissioned,3,0.00,1.00,CS20 Case
 FAMAS | Djinn,5,0.00,1.00,Chroma 2 Case
 FAMAS | Doomkitty,3,0.00,1.00,eSports 2013 Case
-FAMAS | Eye of Athena,5,0.00,0.70,Horizon Case
+FAMAS | Eye of Athena,5,0.00,1.00,Horizon Case
 FAMAS | Hexane,3,0.00,0.40,CS:GO Weapon Case 2
 FAMAS | Macabre,3,0.00,1.00,Operation Hydra Case
-FAMAS | Mecha Industries,5,0.00,0.50,Glove Case
+FAMAS | Mecha Industries,5,0.00,1.00,Glove Case
 FAMAS | Neural Net,4,0.00,0.60,Falchion Case
-FAMAS | Night Borre,1,0.00,0.55,The Norse Collection
+FAMAS | Night Borre,1,0.00,1.00,The Norse Collection
 FAMAS | Pulse,4,0.00,1.00,Winter Offensive Weapon Case
 FAMAS | Roll Cage,6,0.00,1.00,Gamma 2 Case
 FAMAS | Sergeant,4,0.00,1.00,Operation Phoenix Weapon Case
@@ -242,15 +242,15 @@ G3SG1 | High Seas,4,0.00,1.00,Horizon Case
 G3SG1 | Hunter,3,0.00,1.00,Spectrum 2 Case
 G3SG1 | Jungle Dashed,1,0.00,1.00,The Lake Collection
 G3SG1 | Murky,3,0.00,0.25,Operation Vanguard Weapon Case
-G3SG1 | Orange Crash,3,0.00,0.52,Chroma 3 Case
+G3SG1 | Orange Crash,3,0.00,1.00,Chroma 3 Case
 G3SG1 | Orange Kimono,1,0.00,0.80,The Rising Sun Collection
 G3SG1 | Polar Camo,1,0.00,1.00,The Train Collection
 G3SG1 | Safari Mesh,1,0.00,1.00,The Mirage Collection
-G3SG1 | Scavenger,4,0.00,0.65,Danger Zone Case
-G3SG1 | Stinger,4,0.00,0.70,Glove Case
+G3SG1 | Scavenger,4,0.00,0.52,Danger Zone Case
+G3SG1 | Stinger,4,0.00,1.00,Glove Case
 G3SG1 | The Executioner,5,0.14,0.85,Revolver Case
 G3SG1 | VariCamo,2,0.00,1.00,The Safehouse Collection
-G3SG1 | Ventilator,3,0.00,1.00,Gamma 2 Case
+G3SG1 | Ventilator,3,0.00,0.45,Gamma 2 Case
 G3SG1 | Violet Murano,3,0.00,1.00,The Canals Collection
 Galil AR | Akoben,3,0.00,1.00,Prisma Case
 Galil AR | Aqua Terrace,3,0.00,0.70,The Rising Sun Collection
@@ -258,7 +258,7 @@ Galil AR | Black Sand,3,0.00,1.00,Glove Case
 Galil AR | Blue Titanium,3,0.00,0.04,eSports 2013 Winter Case
 Galil AR | Cerberus,4,0.00,1.00,The Cache Collection
 Galil AR | Chatterbox,6,0.35,0.85,Chroma Case
-Galil AR | Cold Fusion,2,0.00,0.83,The 2018 Nuke Collection
+Galil AR | Cold Fusion,2,0.00,1.00,The 2018 Nuke Collection
 Galil AR | Crimson Tsunami,4,0.00,1.00,Spectrum Case
 Galil AR | Eco,5,0.10,0.85,Chroma 2 Case
 Galil AR | Firefight,4,0.00,1.00,Chroma 3 Case
@@ -280,7 +280,7 @@ Galil AR | Winter Forest,2,0.00,1.00,The Office Collection
 M249 | Aztec,4,0.00,1.00,CS20 Case
 M249 | Blizzard Marbleized,2,0.00,1.00,The Office Collection
 M249 | Contrast Spray,1,0.00,1.00,The Overpass Collection
-M249 | Emerald Poison Dart,4,0.00,0.45,Spectrum Case
+M249 | Emerald Poison Dart,4,0.00,1.00,Spectrum Case
 M249 | Gator Mesh,2,0.00,0.60,The Safehouse Collection
 M249 | Impact Drill,1,0.00,1.00,The Chop Shop Collection
 M249 | Jungle,1,0.00,1.00,The St. Marc Collection
@@ -290,11 +290,11 @@ M249 | Nebula Crusader,4,0.00,1.00,Shadow Case
 M249 | Shipping Forecast,2,0.00,0.50,The Gods and Monsters Collection
 M249 | Spectre,3,0.00,0.50,Chroma 3 Case
 M249 | System Lock,3,0.00,1.00,Chroma Case
-M249 | Warbird,3,0.05,0.65,Shattered Web Case
+M249 | Warbird,3,0.00,1.00,Shattered Web Case
 M4A4 | Asiimov,6,0.18,1.00,Winter Offensive Weapon Case
 M4A4 | Bullet Rain,6,0.00,1.00,eSports 2014 Summer Case
-M4A4 | Buzz Kill,6,0.00,0.70,Glove Case
-M4A4 | Converter,3,0.00,0.40,The 2018 Inferno Collection
+M4A4 | Buzz Kill,6,0.00,1.00,Glove Case
+M4A4 | Converter,3,0.00,1.00,The 2018 Inferno Collection
 M4A4 | Dark Blossom,2,0.00,1.00,The St. Marc Collection
 M4A4 | Daybreak,4,0.00,0.60,The Rising Sun Collection
 M4A4 | Desert Storm,2,0.00,1.00,The Dust Collection
@@ -303,13 +303,13 @@ M4A4 | Desolate Space,5,0.00,1.00,Gamma Case
 M4A4 | Evil Daimyo,4,0.00,1.00,Falchion Case
 M4A4 | Faded Zebra,3,0.00,1.00,eSports 2013 Case
 M4A4 | Griffin,4,0.00,0.80,Operation Vanguard Weapon Case
-M4A4 | Hellfire,5,0.00,0.50,Operation Hydra Case
+M4A4 | Hellfire,5,0.00,1.00,Operation Hydra Case
 M4A4 | Howl,7,0.00,1.00,No collection
 M4A4 | Jungle Tiger,2,0.00,1.00,The Aztec Collection
 M4A4 | Magnesium,3,0.00,1.00,Danger Zone Case
-M4A4 | Mainframe,2,0.00,0.50,The 2018 Nuke Collection
+M4A4 | Mainframe,2,0.00,1.00,The 2018 Nuke Collection
 M4A4 | Modern Hunter,4,0.00,1.00,The Militia Collection
-M4A4 | Neo-Noir,6,0.00,0.90,Clutch Case
+M4A4 | Neo-Noir,6,0.00,1.00,Clutch Case
 M4A4 | Poseidon,5,0.00,1.00,The Gods and Monsters Collection
 M4A4 | Radiation Hazard,3,0.00,1.00,The Nuke Collection
 M4A4 | Royal Paladin,6,0.00,1.00,Revolver Case
@@ -337,11 +337,11 @@ MAC-10 | Indigo,1,0.00,1.00,The Cobblestone Collection
 MAC-10 | Lapis Gator,3,0.00,1.00,Operation Wildfire Case
 MAC-10 | Last Dive,4,0.00,1.00,Spectrum Case
 MAC-10 | Malachite,4,0.00,0.50,Chroma Case
-MAC-10 | Neon Rider,6,0.00,1.00,Chroma 2 Case
+MAC-10 | Neon Rider,6,0.00,0.45,Chroma 2 Case
 MAC-10 | Nuclear Garden,3,0.00,0.70,The Cache Collection
-MAC-10 | Oceanic,3,0.00,0.60,Spectrum 2 Case
+MAC-10 | Oceanic,3,0.00,1.00,Spectrum 2 Case
 MAC-10 | Palm,2,0.00,1.00,The Dust 2 Collection
-MAC-10 | Pipe Down,4,0.00,0.90,Danger Zone Case
+MAC-10 | Pipe Down,4,0.00,1.00,Danger Zone Case
 MAC-10 | Rangeen,3,0.00,1.00,Shadow Case
 MAC-10 | Red Filigree,4,0.00,1.00,The Canals Collection
 MAC-10 | Silver,2,0.00,0.08,The Bank Collection
@@ -355,7 +355,7 @@ MAC-10 | Whitefish,3,0.00,1.00,Prisma Case
 P90 | Ash Wood,2,0.00,0.45,The Train Collection
 P90 | Asiimov,6,0.00,1.00,Operation Breakout Weapon Case
 P90 | Astral Jörmungandr,4,0.00,1.00,The Norse Collection
-P90 | Baroque Red,3,0.00,0.50,The Canals Collection
+P90 | Baroque Red,3,0.00,1.00,The Canals Collection
 P90 | Blind Spot,4,0.00,0.50,eSports 2013 Winter Case
 P90 | Chopper,4,0.00,1.00,Gamma Case
 P90 | Cold Blooded,5,0.00,1.00,CS:GO Weapon Case 2
@@ -364,17 +364,17 @@ P90 | Death Grip,4,0.00,1.00,Operation Hydra Case
 P90 | Desert Warfare,3,0.00,1.00,The Huntsman Collection
 P90 | Elite Build,3,0.00,1.00,Falchion Case
 P90 | Emerald Dragon,5,0.00,0.52,Operation Bravo Case
-P90 | Facility Negative,3,0.00,0.50,The 2018 Nuke Collection
+P90 | Facility Negative,3,0.00,1.00,The 2018 Nuke Collection
 P90 | Fallout Warning,2,0.00,1.00,The Nuke Collection
 P90 | Glacier Mesh,3,0.00,1.00,The Vertigo Collection
-P90 | Grim,3,0.00,0.80,Gamma 2 Case
+P90 | Grim,3,0.00,1.00,Gamma 2 Case
 P90 | Leather,2,0.00,1.00,The Baggage Collection
 P90 | Module,3,0.00,1.00,Huntsman Weapon Case
-P90 | Nostalgia,5,0.00,0.57,CS20 Case
-P90 | Off World,3,0.00,0.75,Prisma Case
+P90 | Nostalgia,5,0.00,1.00,CS20 Case
+P90 | Off World,3,0.00,1.00,Prisma Case
 P90 | Sand Spray,1,0.00,1.00,The Dust 2 Collection
 P90 | Scorched,1,0.00,1.00,The Mirage Collection
-P90 | Shallow Grave,5,0.00,0.75,Glove Case
+P90 | Shallow Grave,5,0.00,1.00,Glove Case
 P90 | Shapewood,5,0.00,1.00,Revolver Case
 P90 | Storm,1,0.00,1.00,The Cobblestone Collection
 P90 | Sunset Lily,2,0.00,1.00,The St. Marc Collection
@@ -382,15 +382,15 @@ P90 | Teardown,3,0.00,1.00,The Lake Collection
 P90 | Traction,3,0.00,1.00,Horizon Case
 P90 | Trigon,5,0.08,0.75,Operation Phoenix Weapon Case
 P90 | Virus,4,0.00,1.00,eSports 2014 Summer Case
-MP5-SD | Acid Wash,3,0.00,0.68,Shattered Web Case
+MP5-SD | Acid Wash,3,0.00,1.00,Shattered Web Case
 MP5-SD | Agent,4,0.00,1.00,CS20 Case
-MP5-SD | Bamboo Garden,1,0.00,0.55,The St. Marc Collection
+MP5-SD | Bamboo Garden,1,0.00,1.00,The St. Marc Collection
 MP5-SD | Co-Processor,3,0.00,1.00,The 2018 Nuke Collection
 MP5-SD | Desert Strike,3,0.00,1.00,Prisma 2 Case
 MP5-SD | Dirt Drop,1,0.00,1.00,The 2018 Inferno Collection
 MP5-SD | Gauss,4,0.00,1.00,Prisma CasePrisma Case
-MP5-SD | Lab Rats,4,0.00,0.35,The Blacksite Collection
-MP5-SD | Phosphor,5,0.00,0.80,Danger Zone Case
+MP5-SD | Lab Rats,4,0.00,1.00,The Blacksite Collection
+MP5-SD | Phosphor,5,0.00,1.00,Danger Zone Case
 UMP-45 | Arctic Wolf,4,0.00,1.00,Clutch Case
 UMP-45 | Blaze,3,0.00,0.08,The Mirage Collection
 UMP-45 | Bone Pile,3,0.00,0.34,Operation Bravo Case
@@ -398,27 +398,27 @@ UMP-45 | Briefing,3,0.00,1.00,Gamma 2 Case
 UMP-45 | Caramel,1,0.00,1.00,The Assault Collection
 UMP-45 | Carbon Fiber,2,0.00,0.12,The Bank Collection
 UMP-45 | Corporal,3,0.05,0.75,Operation Phoenix Weapon Case
-UMP-45 | Day Lily,3,0.00,0.55,The St. Marc Collection
+UMP-45 | Day Lily,3,0.00,1.00,The St. Marc Collection
 UMP-45 | Delusion,3,0.06,0.35,Operation Vanguard Weapon Case
-UMP-45 | Exposure,4,0.00,0.55,Spectrum 2 Case
-UMP-45 | Facility Dark,1,0.00,0.50,The 2018 Nuke Collection
+UMP-45 | Exposure,4,0.00,1.00,Spectrum 2 Case
+UMP-45 | Facility Dark,1,0.00,1.00,The 2018 Nuke Collection
 UMP-45 | Fallout Warning,2,0.00,1.00,The Nuke Collection
 UMP-45 | Grand Prix,4,0.25,0.35,Chroma 2 Case
 UMP-45 | Gunsmoke,2,0.00,1.00,The Italy Collection
 UMP-45 | Indigo,1,0.00,1.00,The Cobblestone Collection
 UMP-45 | Labyrinth,3,0.00,0.40,Operation Breakout Weapon Case
-UMP-45 | Metal Flowers,3,0.00,0.70,Operation Hydra Case
+UMP-45 | Metal Flowers,3,0.00,1.00,Operation Hydra Case
 UMP-45 | Minotaur's Labyrinth,3,0.00,1.00,The Gods and Monsters Collection
-UMP-45 | Momentum,5,0.00,0.50,Danger Zone Case
-UMP-45 | Moonrise,4,0.00,0.40,Prisma Case
+UMP-45 | Momentum,5,0.00,1.00,Danger Zone Case
+UMP-45 | Moonrise,4,0.00,1.00,Prisma Case
 UMP-45 | Mudder,1,0.00,1.00,The 2018 Inferno Collection
-UMP-45 | Plastique,4,0.00,0.80,CS20 Case
-UMP-45 | Primal Saber,5,0.00,1.00,Chroma 3 Case
+UMP-45 | Plastique,4,0.00,1.00,CS20 Case
+UMP-45 | Primal Saber,5,0.00,0.77,Chroma 3 Case
 UMP-45 | Riot,3,0.00,1.00,Falchion Case
 UMP-45 | Scaffold,4,0.00,1.00,Spectrum Case
 UMP-45 | Scorched,1,0.00,1.00,The Overpass Collection
 UMP-45 | Urban DDPAT,1,0.00,1.00,The Train Collection
-XM1014 | Banana Leaf,2,0.00,0.60,The St. Marc Collection
+XM1014 | Banana Leaf,2,0.00,1.00,The St. Marc Collection
 XM1014 | Black Tie,4,0.00,0.75,Chroma 3 Case
 XM1014 | Blaze Orange,3,0.00,1.00,The Militia Collection
 XM1014 | Blue Spruce,1,0.00,1.00,The Lake Collection
@@ -426,7 +426,7 @@ XM1014 | Blue Steel,2,0.00,1.00,The Lake Collection
 XM1014 | Bone Machine,3,0.00,0.60,The Cache Collection
 XM1014 | CaliCamo,2,0.00,1.00,The Italy Collection
 XM1014 | Fallout Warning,2,0.00,1.00,The Nuke Collection
-XM1014 | Frost Borre,3,0.00,0.50,The Norse Collection
+XM1014 | Frost Borre,3,0.00,1.00,The Norse Collection
 XM1014 | Grassland,1,0.00,1.00,The Militia Collection
 XM1014 | Heaven Guard,4,0.03,0.50,Huntsman Weapon Case
 XM1014 | Incinegator,5,0.00,1.00,Prisma Case
@@ -436,7 +436,7 @@ XM1014 | Quicksilver,3,0.00,1.00,Chroma Case
 XM1014 | Red Leather,3,0.00,0.56,The Baggage Collection
 XM1014 | Red Python,3,0.08,0.50,eSports 2014 Summer Case
 XM1014 | Scumbria,3,0.00,1.00,Shadow Case
-XM1014 | Seasons,4,0.00,0.50,Spectrum Case
+XM1014 | Seasons,4,0.00,1.00,Spectrum Case
 XM1014 | Slipstream,3,0.00,1.00,Gamma 2 Case
 XM1014 | Teclu Burner,4,0.00,1.00,Revolver Case
 XM1014 | Tranquility,5,0.00,1.00,Operation Vanguard Weapon Case
@@ -458,7 +458,7 @@ PP-Bizon | Fuel Rod,4,0.00,1.00,Revolver Case
 PP-Bizon | Harvester,3,0.00,1.00,Gamma Case
 PP-Bizon | High Roller,5,0.00,1.00,Spectrum 2 Case
 PP-Bizon | Irradiated Alert,1,0.00,1.00,The Nuke Collection
-PP-Bizon | Judgement of Anubis,6,0.00,1.00,Chroma 3 Case
+PP-Bizon | Judgement of Anubis,6,0.00,0.50,Chroma 3 Case
 PP-Bizon | Jungle Slipstream,3,0.00,1.00,Spectrum Case
 PP-Bizon | Modern Hunter,3,0.00,1.00,The Militia Collection
 PP-Bizon | Night Ops,2,0.00,0.60,The Lake Collection
@@ -477,7 +477,7 @@ MAG-7 | Cobalt Core,3,0.00,0.50,Shadow Case
 MAG-7 | Core Breach,4,0.00,1.00,The 2018 Nuke Collection
 MAG-7 | Counter Terrace,3,0.00,1.00,The Rising Sun Collection
 MAG-7 | Firestarter,3,0.00,1.00,Operation Vanguard Weapon Case
-MAG-7 | Hard Water,3,0.00,0.45,Operation Hydra Case
+MAG-7 | Hard Water,3,0.00,1.00,Operation Hydra Case
 MAG-7 | Hazard,3,0.00,1.00,The Alpha Collection
 MAG-7 | Heat,4,0.00,1.00,Chroma 2 Case
 MAG-7 | Heaven Guard,3,0.00,0.40,Operation Phoenix Weapon Case
@@ -486,15 +486,15 @@ MAG-7 | Justice,5,0.00,1.00,Prisma 2 Case
 MAG-7 | Memento,3,0.02,0.18,eSports 2013 Case
 MAG-7 | Metallic DDPAT,2,0.00,0.08,The Train Collection
 MAG-7 | Petroglyph,4,0.00,1.00,Gamma 2 Case
-MAG-7 | Popdog,3,0.00,0.80,CS20 Case
+MAG-7 | Popdog,3,0.00,1.00,CS20 Case
 MAG-7 | Praetorian,4,0.00,0.45,Operation Wildfire Case
 MAG-7 | Rust Coat,1,0.00,1.00,The 2018 Inferno Collection
 MAG-7 | Sand Dune,1,0.00,1.00,The Inferno Collection
 MAG-7 | Seabird,1,0.00,1.00,The Chop Shop Collection
 MAG-7 | Silver,2,0.00,0.08,The Cobblestone Collection
-MAG-7 | Sonar,3,0.00,1.00,Glove Case
+MAG-7 | Sonar,3,0.00,0.45,Glove Case
 MAG-7 | Storm,1,0.00,1.00,The Overpass Collection
-MAG-7 | SWAG-7,4,0.00,0.92,Clutch Case
+MAG-7 | SWAG-7,4,0.00,1.00,Clutch Case
 Negev | Anodized Navy,3,0.00,1.00,The Assault Collection
 Negev | Army Sheen,1,0.00,0.30,The Bank Collection
 Negev | Boroque Sand,1,0.00,1.00,The Canals Collection
@@ -515,17 +515,17 @@ Negev | Terrain,3,0.00,0.45,Operation Phoenix Weapon Case
 Sawed-Off | Amber Fade,3,0.00,0.40,The Train Collection
 Sawed-Off | Apocalypto,4,0.00,1.00,Prisma 2 Case
 Sawed-Off | Bamboo Shadow,1,0.00,0.60,The Rising Sun Collection
-Sawed-Off | Black Sand,3,0.00,0.90,Danger Zone Case
-Sawed-Off | Brake Light,3,0.00,0.08,The 2018 Inferno Collection
+Sawed-Off | Black Sand,3,0.00,1.00,Danger Zone Case
+Sawed-Off | Brake Light,3,0.00,1.00,The 2018 Inferno Collection
 Sawed-Off | Copper,3,0.00,1.00,The Dust Collection
 Sawed-Off | Devourer,5,0.00,1.00,Horizon Case
 Sawed-Off | First Class,3,0.00,1.00,The Baggage Collection
 Sawed-Off | Forest DDPAT,1,0.00,1.00,The Bank Collection
-Sawed-Off | Fubar,3,0.00,1.00,Chroma 3 Case
+Sawed-Off | Fubar,3,0.40,1.00,Chroma 3 Case
 Sawed-Off | Full Stop,3,0.00,0.60,The Italy Collection
 Sawed-Off | Highwayman,4,0.00,1.00,Operation Vanguard Weapon Case
 Sawed-Off | Irradiated Alert,1,0.00,1.00,The Nuke Collection
-Sawed-Off | Jungle Thicket,1,0.00,0.50,The St. Marc Collection
+Sawed-Off | Jungle Thicket,1,0.00,1.00,The St. Marc Collection
 Sawed-Off | Limelight,4,0.00,1.00,Gamma Case
 Sawed-Off | Morris,3,0.00,1.00,Spectrum 2 Case
 Sawed-Off | Mosaico,2,0.00,1.00,The Alpha Collection
@@ -536,20 +536,20 @@ Sawed-Off | Sage Spray,1,0.00,1.00,The Overpass Collection
 Sawed-Off | Serenity,4,0.00,1.00,Chroma Case
 Sawed-Off | Snake Camo,2,0.00,1.00,The Dust 2 Collection
 Sawed-Off | The Kraken,6,0.00,1.00,Winter Offensive Weapon Case
-Sawed-Off | Wasteland Princess,5,0.00,0.70,Glove Case
+Sawed-Off | Wasteland Princess,5,0.00,1.00,Glove Case
 Sawed-Off | Yorick,3,0.00,1.00,Revolver Case
 Sawed-Off | Zander,3,0.00,1.00,Spectrum Case
 Tec-9 | Army Mesh,1,0.00,1.00,The Safehouse Collection
 Tec-9 | Avalanche,4,0.00,1.00,Revolver Case
 Tec-9 | Bamboo Forest,1,0.00,1.00,The Rising Sun Collection
-Tec-9 | Bamboozle,4,0.00,0.80,Prisma Case
+Tec-9 | Bamboozle,4,0.00,1.00,Prisma Case
 Tec-9 | Blue Titanium,3,0.00,0.04,CS:GO Weapon Case 2
 Tec-9 | Brass,3,0.00,1.00,The Inferno Collection
 Tec-9 | Cracked Opal,3,0.00,1.00,Spectrum 2 Case
 Tec-9 | Cut Out,3,0.00,1.00,Operation Hydra Case
 Tec-9 | Decimator,5,0.00,1.00,Shattered Web Case
-Tec-9 | Flash Out,3,0.00,0.70,CS20 Case
-Tec-9 | Fubar,3,0.14,1.00,Danger Zone Case
+Tec-9 | Flash Out,3,0.00,1.00,CS20 Case
+Tec-9 | Fubar,3,0.00,1.00,Danger Zone Case
 Tec-9 | Fuel Injector,5,0.00,1.00,Gamma 2 Case
 Tec-9 | Groundwater,1,0.00,1.00,The Italy Collection
 Tec-9 | Hades,2,0.00,1.00,The Gods and Monsters Collection
@@ -562,7 +562,7 @@ Tec-9 | Ossified,3,0.00,1.00,The Aztec Collection
 Tec-9 | Red Quartz,4,0.00,0.40,The Train Collection
 Tec-9 | Re-Entry,4,0.00,0.43,Chroma 3 Case
 Tec-9 | Remote Control,5,0.00,1.00,The 2018 Nuke Collection
-Tec-9 | Rust Leaf,2,0.00,0.50,The St. Marc Collection
+Tec-9 | Rust Leaf,2,0.00,1.00,The St. Marc Collection
 Tec-9 | Sandstorm,3,0.10,0.70,Operation Phoenix Weapon Case
 Tec-9 | Snek-9,3,0.00,1.00,Horizon Case
 Tec-9 | Terrace,3,0.00,1.00,The Rising Sun Collection
@@ -585,7 +585,7 @@ P2000 | Imperial,3,0.00,1.00,Revolver Case
 P2000 | Imperial Dragon,5,0.00,1.00,Gamma Case
 P2000 | Ivory,3,0.00,1.00,Operation Breakout Weapon Case
 P2000 | Obsidian,4,0.00,1.00,Shattered Web Case
-P2000 | Ocean Foam,5,0.00,1.00,Operation Bravo Case
+P2000 | Ocean Foam,5,0.00,0.60,Operation Bravo Case
 P2000 | Oceanic,3,0.00,1.00,Chroma 3 Case
 P2000 | Pathfinder,2,0.00,1.00,The Gods and Monsters Collection
 P2000 | Pulse,3,0.00,0.60,Huntsman Weapon Case
@@ -600,22 +600,22 @@ MP7 | Anodized Navy,3,0.00,1.00,The Italy Collection
 MP7 | Armor Core,3,0.00,1.00,Chroma 2 Case
 MP7 | Army Recon,1,0.00,1.00,The Safehouse Collection
 MP7 | Asterion,1,0.00,0.55,The Gods and Monsters Collection
-MP7 | Bloodsport,6,0.00,1.00,MP7 Bloodsport Skin & Price Details
-MP7 | Cirrus,3,0.00,1.00,MP7 Cirrus Skin & Price Details
-MP7 | Fade,4,0.00,0.25,MP7 Fade Skin & Price Details
+MP7 | Bloodsport,6,0.00,1.00,Clutch Case
+MP7 | Cirrus,3,0.00,1.00,Glove Case
+MP7 | Fade,4,0.00,1.00,The 2018 Inferno Collection
 MP7 | Forest DDPAT,1,0.00,1.00,The Bank Collection
 MP7 | Full Stop,3,0.00,0.60,The Chop Shop Collection
 MP7 | Groundwater,1,0.00,1.00,The Alpha Collection
 MP7 | Gunsmoke,2,0.00,1.00,The Overpass Collection
 MP7 | Impire,4,0.00,1.00,Operation Wildfire Case
-MP7 | Mischief,3,0.10,1.00,Prisma Case
-MP7 | Motherboard,2,0.00,0.50,The 2018 Nuke Collection
+MP7 | Mischief,3,0.00,1.00,Prisma Case
+MP7 | Motherboard,2,0.00,1.00,The 2018 Nuke Collection
 MP7 | Nemesis,5,0.00,0.32,Falchion Case
 MP7 | Neon Ply,4,0.00,1.00,Shattered Web Case
 MP7 | Ocean Foam,4,0.00,1.00,eSports 2014 Summer Case
 MP7 | Olive Plaid,1,0.00,1.00,The Baggage Collection
 MP7 | Orange Peel,2,0.00,1.00,The Mirage Collection
-MP7 | Powercore,4,0.00,0.80,Horizon Case
+MP7 | Powercore,4,0.00,1.00,Horizon Case
 MP7 | Scorched,1,0.00,1.00,The Norse Collection
 MP7 | Skulls,3,0.10,0.26,CS:GO Weapon Case
 MP7 | Special Delivery,4,0.00,1.00,Shadow Case
@@ -626,7 +626,7 @@ MP9 | Airlock,5,0.00,1.00,Gamma 2 Case
 MP9 | Bioleak,3,0.00,0.50,Chroma 3 Case
 MP9 | Black Sand,3,0.00,1.00,Clutch Case
 MP9 | Bulldozer,4,0.00,1.00,The Assault Collection
-MP9 | Capillary,3,0.00,0.70,Horizon Case
+MP9 | Capillary,3,0.00,1.00,Horizon Case
 MP9 | Dark Age,3,0.00,0.22,The Cobblestone Collection
 MP9 | Dart,3,0.00,0.46,Operation Vanguard Weapon Case
 MP9 | Deadly Poison,3,0.00,1.00,Chroma Case
@@ -636,20 +636,20 @@ MP9 | Green Plaid,1,0.00,0.58,The Baggage Collection
 MP9 | Hot Rod,3,0.00,1.00,The Mirage Collection
 MP9 | Hydra,5,0.00,1.00,CS20 Case
 MP9 | Hypnotic,4,0.00,0.08,CS:GO Weapon Case 2
-MP9 | Modest Threat,3,0.00,0.75,Danger Zone Case
+MP9 | Modest Threat,3,0.00,1.00,Danger Zone Case
 MP9 | Orange Peel,2,0.00,1.00,The Safehouse Collection
 MP9 | Pandora's Box,3,0.00,0.30,The Gods and Monsters Collection
 MP9 | Rose Iron,4,0.00,1.00,Winter Offensive Weapon Case
 MP9 | Ruby Poison Dart,4,0.00,1.00,Falchion Case
 MP9 | Sand Dashed,1,0.00,1.00,The Dust 2 Collection
-MP9 | Sand Scale,3,0.00,0.45,Glove Case
+MP9 | Sand Scale,3,0.00,1.00,Glove Case
 MP9 | Setting Sun,3,0.00,1.00,The Cache Collection
 MP9 | Slide,1,0.00,1.00,The 2018 Inferno Collection
-MP9 | Stained Glass,4,0.00,0.50,The Canals Collection
+MP9 | Stained Glass,4,0.00,1.00,The Canals Collection
 MP9 | Storm,1,0.00,1.00,The Overpass Collection
 MP9 | Wild Lily,5,0.00,1.00,The St. Marc Collection
 Nova | Antique,5,0.00,1.00,Operation Phoenix Weapon Case
-Nova | Baroque Orange,4,0.00,0.50,The Canals Collection
+Nova | Baroque Orange,4,0.00,1.00,The Canals Collection
 Nova | Blaze Orange,3,0.00,1.00,The Militia Collection
 Nova | Bloomstick,5,0.00,1.00,eSports 2014 Summer Case
 Nova | Caged Steel,2,0.00,1.00,The Bank Collection
@@ -657,7 +657,7 @@ Nova | Candy Apple,2,0.00,0.30,The Italy Collection
 Nova | Exo,3,0.00,1.00,Gamma Case
 Nova | Forest Leaves,1,0.00,1.00,The Aztec Collection
 Nova | Ghost Camo,3,0.00,1.00,eSports 2013 Winter Case
-Nova | Gila,4,0.00,0.30,Glove Case
+Nova | Gila,4,0.00,1.00,Glove Case
 Nova | Graphite,4,0.00,0.12,CS:GO Weapon Case 2
 Nova | Green Apple,2,0.00,0.30,The Cobblestone Collection
 Nova | Hyper Beast,5,0.00,0.60,Operation Wildfire Case
@@ -665,7 +665,7 @@ Nova | Koi,4,0.00,0.30,Operation Breakout Weapon Case
 Nova | Mandrel,1,0.00,1.00,The 2018 Nuke Collection
 Nova | Modern Hunter,3,0.00,1.00,The Militia Collection
 Nova | Moon in Libra,1,0.00,0.50,The Gods and Monsters Collection
-Nova | Plume,3,0.00,0.80,Shattered Web Case
+Nova | Plume,3,0.00,1.00,Shattered Web Case
 Nova | Polar Mesh,1,0.00,1.00,The Train Collection
 Nova | Predator,1,0.00,1.00,The Dust 2 Collection
 Nova | Ranger,3,0.00,1.00,Falchion Case
@@ -674,7 +674,7 @@ Nova | Sand Dune,1,0.00,1.00,The Italy Collection
 Nova | Tempest,3,0.00,1.00,Operation Bravo Case
 Nova | Toy Soldier,4,0.00,1.00,Horizon Case
 Nova | Walnut,1,0.00,1.00,The Inferno Collection
-Nova | Wild Six,4,0.00,0.80,Clutch Case
+Nova | Wild Six,4,0.00,1.00,Clutch Case
 Nova | Wood Fired,3,0.00,1.00,Danger Zone Case
 P250 | Asiimov,5,0.10,1.00,Chroma 3 Case
 P250 | Bone Mask,1,0.00,1.00,The Mirage Collection
@@ -683,13 +683,13 @@ P250 | Cartel,5,0.00,0.75,Operation Vanguard Weapon Case
 P250 | Contamination,2,0.00,1.00,The Cache Collection
 P250 | Crimson Kimono,2,0.00,1.00,The Rising Sun Collection
 P250 | Dark Filigree,2,0.00,1.00,The Canals Collection
-P250 | Exchanger,3,0.00,0.50,The 2018 Nuke Collection
+P250 | Exchanger,3,0.00,1.00,The 2018 Nuke Collection
 P250 | Facets,2,0.00,1.00,The Alpha Collection
 P250 | Facility Draft,1,0.00,1.00,The 2018 Nuke Collection
 P250 | Franklin,5,0.00,1.00,The Bank Collection
 P250 | Gunsmoke,2,0.00,1.00,The Inferno Collection
 P250 | Hive,3,0.00,1.00,CS:GO Weapon Case 2
-P250 | Inferno,4,0.00,0.68,CS20 Case
+P250 | Inferno,4,0.00,1.00,CS20 Case
 P250 | Iron Clad,3,0.00,1.00,Gamma Case
 P250 | Mehndi,5,0.00,1.00,Winter Offensive Weapon Case
 P250 | Metallic DDPAT,2,0.00,0.08,The Train Collection
@@ -699,9 +699,9 @@ P250 | Muertos,5,0.00,0.60,Chroma Case
 P250 | Nevermore,4,0.00,1.00,Danger Zone Case
 P250 | Nuclear Threat,4,0.00,1.00,The Nuke Collection
 P250 | Red Rock,4,0.00,1.00,Operation Hydra Case
-P250 | Ripple,3,0.00,0.50,Spectrum Case
+P250 | Ripple,3,0.00,1.00,Spectrum Case
 P250 | Sand Dune,1,0.00,1.00,The Dust 2 Collection
-P250 | See Ya Later,6,0.00,0.70,Spectrum 2 Case
+P250 | See Ya Later,6,0.00,1.00,Spectrum 2 Case
 P250 | Splash,4,0.00,0.18,eSports 2013 Case
 P250 | Steel Disruption,3,0.00,0.20,eSports 2013 Winter Case
 P250 | Supernova,4,0.00,0.40,Operation Breakout Weapon Case
@@ -713,9 +713,9 @@ P250 | Whiteout,3,0.00,1.00,The Chop Shop Collection
 P250 | Wingshot,4,0.00,0.90,Shadow Case
 P250 | X-Ray,4,0.00,1.00,X-Ray P250 Package
 SCAR-20 | Army Sheen,1,0.00,0.30,The Chop Shop Collection
-SCAR-20 | Assault,3,0.00,0.62,CS20 Case
+SCAR-20 | Assault,3,0.00,1.00,CS20 Case
 SCAR-20 | Bloodsport,5,0.00,1.00,Gamma Case
-SCAR-20 | Blueprint,3,0.00,0.75,Spectrum Case
+SCAR-20 | Blueprint,3,0.00,1.00,Spectrum Case
 SCAR-20 | Brass,3,0.00,1.00,The Norse Collection
 SCAR-20 | Carbon Fiber,2,0.00,0.12,The Norse Collection
 SCAR-20 | Cardiac,5,0.00,1.00,Operation Vanguard Weapon Case
@@ -732,15 +732,15 @@ SCAR-20 | Palm,2,0.00,1.00,The Dust Collection
 SCAR-20 | Powercore,4,0.00,1.00,Gamma 2 Case
 SCAR-20 | Sand Mesh,1,0.00,1.00,The Dust 2 Collection
 SCAR-20 | Splash Jam,5,0.00,1.00,The Militia Collection
-SCAR-20 | Stone Mosaico,1,0.06,0.50,The Canals Collection
+SCAR-20 | Stone Mosaico,1,0.00,1.00,The Canals Collection
 SCAR-20 | Storm,1,0.00,1.00,The Cobblestone Collection
-SCAR-20 | Torn,3,0.00,0.45,Shattered Web Case
+SCAR-20 | Torn,3,0.00,1.00,Shattered Web Case
 SG 553 | Aerial,3,0.00,1.00,Gamma Case
 SG 553 | Aloha,3,0.00,1.00,Clutch Case
 SG 553 | Anodized Navy,3,0.00,1.00,The Lake Collection
 SG 553 | Army Sheen,1,0.00,0.30,The Bank Collection
 SG 553 | Atlas,3,0.00,0.81,Chroma 3 Case
-SG 553 | Barricade,1,0.00,0.65,The Norse Collection
+SG 553 | Barricade,1,0.00,1.00,The Norse Collection
 SG 553 | Bulldozer,4,0.00,1.00,The Chop Shop Collection
 SG 553 | Candy Apple,2,0.00,1.00,The Canals Collection
 SG 553 | Colony IV,5,0.00,1.00,Shattered Web Case
@@ -751,7 +751,7 @@ SG 553 | Darkwing,4,0.00,1.00,Prisma 2 Case
 SG 553 | Fallout Warning,2,0.00,0.80,The Cache Collection
 SG 553 | Gator Mesh,2,0.00,0.60,The Mirage Collection
 SG 553 | Integrale,5,0.00,1.00,The 2018 Inferno Collection
-SG 553 | Phantom,4,0.00,0.60,Spectrum 2 Case
+SG 553 | Phantom,4,0.00,1.00,Spectrum 2 Case
 SG 553 | Pulse,4,0.10,0.60,Operation Phoenix Weapon Case
 SG 553 | Tiger Moth,4,0.00,1.00,Revolver Case
 SG 553 | Tornado,1,0.00,1.00,The Assault Collection
@@ -767,9 +767,9 @@ SSG 08 | Blood in the Water,6,0.00,0.20,CS:GO Weapon Case 2
 SSG 08 | Bloodshot,5,0.00,1.00,Shattered Web Case
 SSG 08 | Blue Spruce,1,0.00,1.00,The Safehouse Collection
 SSG 08 | Dark Water,3,0.00,1.00,eSports 2014 Summer Case
-SSG 08 | Death's Head,4,0.00,0.51,Operation Hydra Case
+SSG 08 | Death's Head,4,0.00,1.00,Operation Hydra Case
 SSG 08 | Detour,3,0.00,1.00,The Overpass Collection
-SSG 08 | Dragonfire,6,0.00,0.50,Glove Case
+SSG 08 | Dragonfire,6,0.00,1.00,Glove Case
 SSG 08 | Fever Dream,4,0.00,1.00,Prisma 2 Case
 SSG 08 | Ghost Crusader,4,0.00,1.00,Chroma 3 Case
 SSG 08 | Hand Brake,3,0.00,1.00,The 2018 Inferno Collection
@@ -777,9 +777,9 @@ SSG 08 | Lichen Dashed,1,0.00,1.00,The Aztec Collection
 SSG 08 | Mayan Dreams,2,0.00,1.00,The Alpha Collection
 SSG 08 | Necropos,3,0.00,1.00,Operation Wildfire Case
 SSG 08 | Orange Filigree,3,0.00,1.00,The Canals Collection
-SSG 08 | Red Stone,1,0.06,0.50,The Norse Collection
+SSG 08 | Red Stone,1,0.00,1.00,The Norse Collection
 SSG 08 | Sand Dune,1,0.00,1.00,The Baggage Collection
-SSG 08 | Sea Calico,4,0.00,0.50,The St. Marc Collection
+SSG 08 | Sea Calico,4,0.00,1.00,The St. Marc Collection
 SSG 08 | Slashed,3,0.15,0.80,Huntsman Weapon Case
 SSG 08 | Tropical Storm,2,0.00,1.00,The Mirage Collection
 M4A1-S | Atomic Alloy,5,0.00,1.00,Huntsman Weapon Case
@@ -792,7 +792,7 @@ M4A1-S | Chantico's Fire,6,0.00,1.00,Chroma 3 Case
 M4A1-S | Control Panel,5,0.00,1.00,The 2018 Nuke Collection
 M4A1-S | Cyrex,6,0.00,0.50,Operation Breakout Weapon Case
 M4A1-S | Dark Water,4,0.00,1.00,CS:GO Weapon Case
-M4A1-S | Decimator,5,0.00,0.85,Spectrum Case
+M4A1-S | Decimator,5,0.00,1.00,Spectrum Case
 M4A1-S | Flashback,4,0.00,1.00,Glove Case
 M4A1-S | Golden Coil,6,0.00,1.00,Shadow Case
 M4A1-S | Guardian,5,0.00,0.50,Winter Offensive Weapon Case
@@ -838,7 +838,7 @@ CZ75-Auto | Crimson Web,3,0.00,1.00,CS:GO Weapon Case 3
 CZ75-Auto | Distressed,3,0.00,1.00,Prisma 2 Case
 CZ75-Auto | Eco,4,0.00,1.00,Horizon Case
 CZ75-Auto | Emerald,3,0.00,1.00,The Chop Shop Collection
-CZ75-Auto | Emerald Quartz,3,0.00,0.70,The Norse Collection
+CZ75-Auto | Emerald Quartz,3,0.00,1.00,The Norse Collection
 CZ75-Auto | Green Plaid,1,0.00,0.58,The Baggage Collection
 CZ75-Auto | Hexane,3,0.00,0.40,eSports 2014 Summer Case
 CZ75-Auto | Imprint,3,0.00,1.00,Gamma 2 Case
@@ -846,7 +846,7 @@ CZ75-Auto | Indigo,1,0.00,1.00,The Canals Collection
 CZ75-Auto | Nitro,3,0.06,0.80,The Overpass Collection
 CZ75-Auto | Poison Dart,3,0.00,1.00,The Huntsman Collection
 CZ75-Auto | Pole Position,4,0.00,1.00,Chroma 2 Case
-CZ75-Auto | Polymer,3,0.00,0.50,Glove Case
+CZ75-Auto | Polymer,3,0.00,1.00,Glove Case
 CZ75-Auto | Red Astor,4,0.00,1.00,Chroma 3 Case
 CZ75-Auto | Tacticat,4,0.00,1.00,Spectrum 2 Case
 CZ75-Auto | The Fuschia Is Now,5,0.00,0.40,CS:GO Weapon Case 3
@@ -865,8 +865,8 @@ R8 Revolver | Crimson Web,3,0.00,1.00,Revolver Case
 R8 Revolver | Fade,6,0.00,0.40,Revolver Case
 R8 Revolver | Grip,3,0.00,1.00,Clutch Case
 R8 Revolver | Llama Cannon,5,0.00,1.00,Spectrum 2 Case
-R8 Revolver | Memento,3,0.00,0.80,Shattered Web Case
+R8 Revolver | Memento,3,0.00,1.00,Shattered Web Case
 R8 Revolver | Nitro,2,0.00,1.00,The 2018 Inferno Collection
 R8 Revolver | Reboot,4,0.00,1.00,Gamma Case
-R8 Revolver | Skull Crusher,5,0.25,0.80,Prisma Case
-R8 Revolver | Survivalist,3,0.00,0.70,Horizon Case
+R8 Revolver | Skull Crusher,5,0.00,1.00,Prisma Case
+R8 Revolver | Survivalist,3,0.00,1.00,Horizon Case

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Windows.Forms;
 using System.Threading.Tasks;
 using System.Net.Http;
 using System.IO;
@@ -27,7 +28,10 @@ namespace Trader
         {
             string price = GetPrice(weaponName);
             price = price.Replace(",", ".");
-            return float.Parse(price);
+            float toReturn = 0;
+            bool q = float.TryParse(price, out toReturn);
+            if (!q) MessageBox.Show("" + price);
+            return toReturn;
         }
         public static string GetPrice(Skin skin, SkinArgs args)
         {

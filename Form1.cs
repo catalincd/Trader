@@ -15,12 +15,13 @@ namespace Trader
 {
     public partial class Form1 : Form
     {
-        List<Skin> skins;
-        List<Skin> currentSkins;
-        string currentCollection;
-        string currentCondition;
-        string currentStat = "";
-        string[] conditions = { "Factory New", "Minimal Wear", "Field-Tested", "Well-Worn", "Battle-Scarred" };
+        public List<Skin> skins;
+        public List<Skin> currentSkins;
+        public int skinsCount = 15;
+        public string currentCollection;
+        public string currentCondition;
+        public string currentStat = "";
+        public string[] conditions = { "Factory New", "Minimal Wear", "Field-Tested", "Well-Worn", "Battle-Scarred" };
         public Form1()
         {
             InitializeComponent();
@@ -54,7 +55,7 @@ namespace Trader
         }
         private void ParseToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            Parser.parse2();
         }
         private void Button1_Click(object sender, EventArgs e)
         {
@@ -70,7 +71,8 @@ namespace Trader
                     currentSkins.Add(q);
                 }
             }
-            progressBar1.Maximum = currentSkins.Count;
+            skinsCount = currentSkins.Count;
+            progressBar1.Maximum = 100;
             progressBar1.Value = 0;
             label1.Text = "";
             getPrices();
@@ -78,27 +80,29 @@ namespace Trader
 
         void getPrices()
         {
-            for(int i=0;i<currentSkins.Count;i++)
+            backgroundWorker1.RunWorkerAsync();
+        }
+
+        private void BackgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
+        {
+            BackgroundWorker worker = sender as BackgroundWorker;
+            for (int i = 0; i < currentSkins.Count; i++)
             {
-                for(int t=0;t<5;t++)
+                for (int t = 0; t < 5; t++)
                 {
-                    if(currentSkins[i].allowsCondition(conditions[t]))
+                    if (currentSkins[i].allowsCondition(conditions[t]))
                     {
                         string name = currentSkins[i].getFullName(currentStat, conditions[t]);
                         float newPrice = Price.GetPriceFloat(name);
                         currentSkins[i].prices.prices[t] = newPrice;
-                        label1.Text += name + " - " + newPrice;
-                        label1.Text += '\n';
+                        //label1.Text += name + " - " + newPrice;
+                        //label1.Text += '\n';
                         Thread.Sleep(3020);
                     }
                 }
-                progressBar1.Value++;
+                worker.ReportProgress(i);
+                //progressBar1.Value++;
             }
-        }
-
-        private void SplitContainer1_Panel1_Paint(object sender, PaintEventArgs e)
-        {
-
         }
 
         private void Button2_Click(object sender, EventArgs e)
@@ -110,6 +114,16 @@ namespace Trader
             {
                 File.WriteAllText(sfg.FileName, label1.Text);
             }
+        }
+
+        private void BackgroundWorker1_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
+        {
+            MessageBox.Show("Work completed");
+        }
+
+        private void BackgroundWorker1_ProgressChanged(object sender, ProgressChangedEventArgs e)
+        {
+            progressBar1.Value = e.ProgressPercentage * 100 / skinsCount;
         }
     }
 }

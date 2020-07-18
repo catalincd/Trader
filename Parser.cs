@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Text.Json;
 using System.Collections;
+using System.Text.RegularExpressions;
 
 namespace Trader
 {
@@ -26,7 +27,7 @@ namespace Trader
         {
             string path = Application.StartupPath + @"\weapons.txt";
             string paintkitsPath = Application.StartupPath + @"\paintkits.json";
-            string floatsPath = Application.StartupPath + @"\floats.json";
+            string floatsPath = Application.StartupPath + @"\floats3.json";
             string writePath = Application.StartupPath + @"\baseFull.txt";
             string json = File.ReadAllText(path);
             string paintKitsJson = File.ReadAllText(paintkitsPath);
@@ -74,7 +75,7 @@ namespace Trader
         public static void parse4()
         {
             string path = Application.StartupPath + @"\paintkits.format";
-            string writePath = Application.StartupPath + @"\floats.txt";
+            string writePath = Application.StartupPath + @"\floats2.txt";
 
             string text = File.ReadAllText(path);
             string[] bits = text.Split('}');
@@ -116,6 +117,8 @@ namespace Trader
                     }
 
                     name.TrimEnd(spaces);
+                    Regex rgx = new Regex("[^a-zA-Z0-9-_]");
+                    name = rgx.Replace(name, "");
                     string newLine = name + "*" + min.ToString("0.00") + "#" + max.ToString("0.00");
                     output.Add(newLine);
                 }
@@ -126,8 +129,8 @@ namespace Trader
 
         public static void parse5()
         {
-            string path = Application.StartupPath + @"\paintkitFloats.txt";
-            string outPath = Application.StartupPath + @"\floatsSerial.txt";
+            string path = Application.StartupPath + @"\floats2.txt";
+            string outPath = Application.StartupPath + @"\floats3.txt";
             string[] lines = File.ReadAllLines(path);
 
             List<string> output = new List<string>();
@@ -159,7 +162,7 @@ namespace Trader
         {
             string path = Application.StartupPath + @"\base.txt";
             string pathFull = Application.StartupPath + @"\baseFull.txt";
-            string pathOut = Application.StartupPath + @"\baseFinal.txt";
+            string pathOut = Application.StartupPath + @"\baseFinally.txt";
             string[] lines = File.ReadAllLines(pathFull);
             string[] linesAdd = File.ReadAllLines(path);
 

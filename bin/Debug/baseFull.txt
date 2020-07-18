@@ -6,14 +6,14 @@ Desert Eagle | Code Red,6,0.00,1.00
 Desert Eagle | Conspiracy,5,0.00,1.00
 Desert Eagle | Corinthian,3,0.00,0.44
 Desert Eagle | Crimson Web,4,0.00,1.00
-Desert Eagle | Directive,4,0.00,1.00
+Desert Eagle | Directive,4,0.06,1.00
 Desert Eagle | Emerald Jörmungandr,4,0.00,1.00
 Desert Eagle | Golden Koi,6,0.00,0.12
 Desert Eagle | Hand Cannon,4,0.00,1.00
 Desert Eagle | Heirloom,4,0.00,0.80
 Desert Eagle | Hypnotic,5,0.00,0.08
 Desert Eagle | Kumicho Dragon,5,0.00,1.00
-Desert Eagle | Light Rail,4,0.00,1.00
+Desert Eagle | Light Rail,4,0.00,0.90
 Desert Eagle | Mecha Industries,5,0.00,1.00
 Desert Eagle | Meteorite,3,0.00,0.18
 Desert Eagle | Midnight Storm,2,0.00,1.00
@@ -32,13 +32,13 @@ Dual Berettas | Black Limba,3,0.00,1.00
 Dual Berettas | Briar,1,0.00,1.00
 Dual Berettas | Cartel,3,0.00,1.00
 Dual Berettas | Cobalt Quartz,4,0.00,1.00
-Dual Berettas | Cobra Strike,5,0.00,1.00
+Dual Berettas | Cobra Strike,5,0.00,0.60
 Dual Berettas | Colony,1,0.00,1.00
 Dual Berettas | Contractor,1,0.00,1.00
 Dual Berettas | Demolition,4,0.00,1.00
 Dual Berettas | Dualing Dragons,3,0.00,1.00
 Dual Berettas | Duelist,4,0.00,1.00
-Dual Berettas | Elite 1.6,3,0.00,1.00
+Dual Berettas | Elite 1.6,3,0.00,0.70
 Dual Berettas | Emerald,3,0.00,1.00
 Dual Berettas | Hemoglobin,4,0.00,0.20
 Dual Berettas | Marina,4,0.05,0.50
@@ -52,17 +52,17 @@ Dual Berettas | Stained,2,0.00,1.00
 Dual Berettas | Twin Turbo,5,0.00,1.00
 Dual Berettas | Urban Shock,4,0.00,0.47
 Dual Berettas | Ventilators,3,0.00,1.00
-Five-SeveN | Angry Mob,6,0.00,1.00
+Five-SeveN | Angry Mob,6,0.00,0.70
 Five-SeveN | Anodized Gunmetal,1,0.00,0.08
 Five-SeveN | Buddy,4,0.00,1.00
 Five-SeveN | Candy Apple,2,0.00,0.30
-Five-SeveN | Capillary,3,0.00,1.00
+Five-SeveN | Capillary,3,0.00,0.70
 Five-SeveN | Case Hardened,4,0.00,1.00
 Five-SeveN | Contractor,1,0.00,1.00
-Five-SeveN | Coolant,1,0.00,1.00
+Five-SeveN | Coolant,1,0.00,0.50
 Five-SeveN | Copper Galaxy,4,0.00,1.00
-Five-SeveN | Crimson Blossom,3,0.00,1.00
-Five-SeveN | Flame Test,3,0.00,1.00
+Five-SeveN | Crimson Blossom,3,0.00,0.50
+Five-SeveN | Flame Test,3,0.00,0.65
 Five-SeveN | Forest Night,1,0.00,1.00
 Five-SeveN | Fowl Play,5,0.00,1.00
 Five-SeveN | Hot Shot,2,0.00,1.00
@@ -97,7 +97,7 @@ Glock-18 | Moonrise,4,0.00,1.00
 Glock-18 | Night,2,0.00,1.00
 Glock-18 | Nuclear Garden,4,0.00,1.00
 Glock-18 | Off World,3,0.00,1.00
-Glock-18 | Oxide Blaze,3,0.00,1.00
+Glock-18 | Oxide Blaze,3,0.00,0.85
 Glock-18 | Reactor,3,0.00,1.00
 Glock-18 | Royal Legion,4,0.00,1.00
 Glock-18 | Sacrifice,3,0.00,1.00
@@ -129,16 +129,16 @@ AK-47 | Jaguar,6,0.00,1.00
 AK-47 | Jet Set,5,0.00,1.00
 AK-47 | Jungle Spray,2,0.00,1.00
 AK-47 | Neon Revolution,6,0.00,1.00
-AK-47 | Neon Rider,6,0.00,1.00
-AK-47 | Orbit Mk01,4,0.00,1.00
-AK-47 | Phantom Disruptor,5,0.00,1.00
+AK-47 | Neon Rider,6,0.00,0.80
+AK-47 | Orbit Mk01,4,0.00,0.55
+AK-47 | Phantom Disruptor,5,0.00,0.65
 AK-47 | Point Disarray,5,0.00,1.00
 AK-47 | Predator,2,0.00,1.00
 AK-47 | Rat Rod,4,0.00,1.00
 AK-47 | Red Laminate,5,0.00,1.00
 AK-47 | Redline,5,0.00,1.00
 AK-47 | Safari Mesh,2,0.00,1.00
-AK-47 | Safety Net,4,0.00,1.00
+AK-47 | Safety Net,4,0.00,0.60
 AK-47 | The Empress,6,0.00,1.00
 AK-47 | Uncharted,3,0.00,1.00
 AK-47 | Vulcan,6,0.00,0.90
@@ -147,7 +147,7 @@ AK-47 | Wild Lotus,6,0.00,1.00
 AUG | Akihabara Accept,6,0.00,1.00
 AUG | Amber Slipstream,3,0.00,1.00
 AUG | Anodized Navy,3,0.00,0.08
-AUG | Arctic Wolf,4,0.00,1.00
+AUG | Arctic Wolf,4,0.00,0.70
 AUG | Aristocrat,4,0.00,1.00
 AUG | Bengal Tiger,5,0.00,1.00
 AUG | Chameleon,6,0.00,1.00
@@ -157,11 +157,11 @@ AUG | Contractor,1,0.00,1.00
 AUG | Copperhead,3,0.00,1.00
 AUG | Daedalus,1,0.00,0.55
 AUG | Death by Puppy,5,0.00,1.00
-AUG | Flame Jörmungandr,4,0.00,1.00
+AUG | Flame Jörmungandr,4,0.00,0.50
 AUG | Fleet Flock,5,0.00,1.00
 AUG | Hot Rod,3,0.00,1.00
-AUG | Midnight Lily,4,0.00,1.00
-AUG | Momentum,5,0.00,1.00
+AUG | Midnight Lily,4,0.00,0.50
+AUG | Momentum,5,0.05,1.00
 AUG | Navy Murano,1,0.00,1.00
 AUG | Radiation Hazard,2,0.00,1.00
 AUG | Random Access,4,0.00,1.00
@@ -169,31 +169,31 @@ AUG | Ricochet,3,0.00,0.80
 AUG | Storm,1,0.00,1.00
 AUG | Stymphalian,5,0.00,1.00
 AUG | Sweeper,1,0.00,1.00
-AUG | Syd Mead,5,0.00,1.00
+AUG | Syd Mead,5,0.00,0.80
 AUG | Tom Cat,3,0.00,1.00
 AUG | Torque,4,0.00,1.00
 AUG | Triqua,3,0.00,1.00
 AUG | Wings,3,0.00,0.14
-AWP | Acheron,3,0.00,1.00
+AWP | Acheron,3,0.00,0.83
 AWP | Asiimov,6,0.18,1.00
 AWP | Atheris,4,0.00,1.00
 AWP | BOOM,5,0.00,1.00
-AWP | Capillary,3,0.00,1.00
+AWP | Capillary,3,0.05,0.70
 AWP | Containment Breach,6,0.00,1.00
 AWP | Corticera,5,0.00,1.00
 AWP | Dragon Lore,6,0.00,0.70
 AWP | Electric Hive,5,0.00,1.00
 AWP | Elite Build,5,0.00,1.00
-AWP | Fever Dream,5,0.00,1.00
+AWP | Fever Dream,5,0.00,0.55
 AWP | Graphite,5,0.00,0.12
-AWP | Gungnir,6,0.00,1.00
+AWP | Gungnir,6,0.00,0.60
 AWP | Hyper Beast,6,0.00,1.00
 AWP | Lightning Strike,6,0.00,1.00
 AWP | Man-o'-war,6,0.00,1.00
 AWP | Medusa,6,0.00,1.00
-AWP | Mortis,5,0.00,1.00
+AWP | Mortis,5,0.00,0.64
 AWP | Neo-Noir,6,0.00,1.00
-AWP | Oni Taiji,6,0.00,1.00
+AWP | Oni Taiji,6,0.00,0.50
 AWP | PAW,4,0.00,1.00
 AWP | Phobos,4,0.00,1.00
 AWP | Pink DDPAT,4,0.00,1.00
@@ -209,17 +209,17 @@ FAMAS | Afterimage,5,0.02,0.40
 FAMAS | Colony,1,0.00,1.00
 FAMAS | Commemoration,6,0.00,1.00
 FAMAS | Contrast Spray,1,0.00,1.00
-FAMAS | Crypsis,3,0.00,1.00
+FAMAS | Crypsis,3,0.00,0.55
 FAMAS | Cyanospatter,2,0.00,1.00
 FAMAS | Decommissioned,3,0.00,1.00
 FAMAS | Djinn,5,0.00,1.00
 FAMAS | Doomkitty,3,0.00,1.00
-FAMAS | Eye of Athena,5,0.00,1.00
+FAMAS | Eye of Athena,5,0.00,0.70
 FAMAS | Hexane,3,0.00,0.40
 FAMAS | Macabre,3,0.00,1.00
-FAMAS | Mecha Industries,5,0.00,1.00
+FAMAS | Mecha Industries,5,0.00,0.50
 FAMAS | Neural Net,4,0.00,0.60
-FAMAS | Night Borre,1,0.00,1.00
+FAMAS | Night Borre,1,0.00,0.55
 FAMAS | Pulse,4,0.00,1.00
 FAMAS | Roll Cage,6,0.00,1.00
 FAMAS | Sergeant,4,0.00,1.00
@@ -242,12 +242,12 @@ G3SG1 | High Seas,4,0.00,1.00
 G3SG1 | Hunter,3,0.00,1.00
 G3SG1 | Jungle Dashed,1,0.00,1.00
 G3SG1 | Murky,3,0.00,0.25
-G3SG1 | Orange Crash,3,0.00,1.00
+G3SG1 | Orange Crash,3,0.00,0.52
 G3SG1 | Orange Kimono,1,0.00,0.80
 G3SG1 | Polar Camo,1,0.00,1.00
 G3SG1 | Safari Mesh,1,0.00,1.00
-G3SG1 | Scavenger,4,0.00,1.00
-G3SG1 | Stinger,4,0.00,1.00
+G3SG1 | Scavenger,4,0.00,0.65
+G3SG1 | Stinger,4,0.00,0.70
 G3SG1 | The Executioner,5,0.14,0.85
 G3SG1 | VariCamo,2,0.00,1.00
 G3SG1 | Ventilator,3,0.00,1.00
@@ -258,7 +258,7 @@ Galil AR | Black Sand,3,0.00,1.00
 Galil AR | Blue Titanium,3,0.00,0.04
 Galil AR | Cerberus,4,0.00,1.00
 Galil AR | Chatterbox,6,0.35,0.85
-Galil AR | Cold Fusion,2,0.00,1.00
+Galil AR | Cold Fusion,2,0.00,0.83
 Galil AR | Crimson Tsunami,4,0.00,1.00
 Galil AR | Eco,5,0.10,0.85
 Galil AR | Firefight,4,0.00,1.00
@@ -280,7 +280,7 @@ Galil AR | Winter Forest,2,0.00,1.00
 M249 | Aztec,4,0.00,1.00
 M249 | Blizzard Marbleized,2,0.00,1.00
 M249 | Contrast Spray,1,0.00,1.00
-M249 | Emerald Poison Dart,4,0.00,1.00
+M249 | Emerald Poison Dart,4,0.00,0.45
 M249 | Gator Mesh,2,0.00,0.60
 M249 | Impact Drill,1,0.00,1.00
 M249 | Jungle,1,0.00,1.00
@@ -288,13 +288,13 @@ M249 | Jungle DDPAT,1,0.00,1.00
 M249 | Magma,3,0.00,1.00
 M249 | Nebula Crusader,4,0.00,1.00
 M249 | Shipping Forecast,2,0.00,0.50
-M249 | Spectre,3,0.00,1.00
+M249 | Spectre,3,0.00,0.50
 M249 | System Lock,3,0.00,1.00
-M249 | Warbird,3,0.00,1.00
+M249 | Warbird,3,0.05,0.65
 M4A4 | Asiimov,6,0.18,1.00
 M4A4 | Bullet Rain,6,0.00,1.00
-M4A4 | Buzz Kill,6,0.00,1.00
-M4A4 | Converter,3,0.00,1.00
+M4A4 | Buzz Kill,6,0.00,0.70
+M4A4 | Converter,3,0.00,0.40
 M4A4 | Dark Blossom,2,0.00,1.00
 M4A4 | Daybreak,4,0.00,0.60
 M4A4 | Desert Storm,2,0.00,1.00
@@ -303,13 +303,13 @@ M4A4 | Desolate Space,5,0.00,1.00
 M4A4 | Evil Daimyo,4,0.00,1.00
 M4A4 | Faded Zebra,3,0.00,1.00
 M4A4 | Griffin,4,0.00,0.80
-M4A4 | Hellfire,5,0.00,1.00
+M4A4 | Hellfire,5,0.00,0.50
 M4A4 | Howl,7,0.00,1.00
 M4A4 | Jungle Tiger,2,0.00,1.00
 M4A4 | Magnesium,3,0.00,1.00
-M4A4 | Mainframe,2,0.00,1.00
+M4A4 | Mainframe,2,0.00,0.50
 M4A4 | Modern Hunter,4,0.00,1.00
-M4A4 | Neo-Noir,6,0.00,1.00
+M4A4 | Neo-Noir,6,0.00,0.90
 M4A4 | Poseidon,5,0.00,1.00
 M4A4 | Radiation Hazard,3,0.00,1.00
 M4A4 | Royal Paladin,6,0.00,1.00
@@ -339,9 +339,9 @@ MAC-10 | Last Dive,4,0.00,1.00
 MAC-10 | Malachite,4,0.00,0.50
 MAC-10 | Neon Rider,6,0.00,1.00
 MAC-10 | Nuclear Garden,3,0.00,0.70
-MAC-10 | Oceanic,3,0.00,1.00
+MAC-10 | Oceanic,3,0.00,0.60
 MAC-10 | Palm,2,0.00,1.00
-MAC-10 | Pipe Down,4,0.00,1.00
+MAC-10 | Pipe Down,4,0.00,0.90
 MAC-10 | Rangeen,3,0.00,1.00
 MAC-10 | Red Filigree,4,0.00,1.00
 MAC-10 | Silver,2,0.00,0.08
@@ -355,7 +355,7 @@ MAC-10 | Whitefish,3,0.00,1.00
 P90 | Ash Wood,2,0.00,0.45
 P90 | Asiimov,6,0.00,1.00
 P90 | Astral Jörmungandr,4,0.00,1.00
-P90 | Baroque Red,3,0.00,1.00
+P90 | Baroque Red,3,0.00,0.50
 P90 | Blind Spot,4,0.00,0.50
 P90 | Chopper,4,0.00,1.00
 P90 | Cold Blooded,5,0.00,1.00
@@ -364,17 +364,17 @@ P90 | Death Grip,4,0.00,1.00
 P90 | Desert Warfare,3,0.00,1.00
 P90 | Elite Build,3,0.00,1.00
 P90 | Emerald Dragon,5,0.00,0.52
-P90 | Facility Negative,3,0.00,1.00
+P90 | Facility Negative,3,0.00,0.50
 P90 | Fallout Warning,2,0.00,1.00
 P90 | Glacier Mesh,3,0.00,1.00
-P90 | Grim,3,0.00,1.00
+P90 | Grim,3,0.00,0.80
 P90 | Leather,2,0.00,1.00
 P90 | Module,3,0.00,1.00
-P90 | Nostalgia,5,0.00,1.00
-P90 | Off World,3,0.00,1.00
+P90 | Nostalgia,5,0.00,0.57
+P90 | Off World,3,0.00,0.75
 P90 | Sand Spray,1,0.00,1.00
 P90 | Scorched,1,0.00,1.00
-P90 | Shallow Grave,5,0.00,1.00
+P90 | Shallow Grave,5,0.00,0.75
 P90 | Shapewood,5,0.00,1.00
 P90 | Storm,1,0.00,1.00
 P90 | Sunset Lily,2,0.00,1.00
@@ -382,15 +382,15 @@ P90 | Teardown,3,0.00,1.00
 P90 | Traction,3,0.00,1.00
 P90 | Trigon,5,0.08,0.75
 P90 | Virus,4,0.00,1.00
-MP5-SD | Acid Wash,3,0.00,1.00
+MP5-SD | Acid Wash,3,0.00,0.68
 MP5-SD | Agent,4,0.00,1.00
-MP5-SD | Bamboo Garden,1,0.00,1.00
+MP5-SD | Bamboo Garden,1,0.00,0.55
 MP5-SD | Co-Processor,3,0.00,1.00
 MP5-SD | Desert Strike,3,0.00,1.00
 MP5-SD | Dirt Drop,1,0.00,1.00
 MP5-SD | Gauss,4,0.00,1.00
-MP5-SD | Lab Rats,4,0.00,1.00
-MP5-SD | Phosphor,5,0.00,1.00
+MP5-SD | Lab Rats,4,0.00,0.35
+MP5-SD | Phosphor,5,0.00,0.80
 UMP-45 | Arctic Wolf,4,0.00,1.00
 UMP-45 | Blaze,3,0.00,0.08
 UMP-45 | Bone Pile,3,0.00,0.34
@@ -398,35 +398,35 @@ UMP-45 | Briefing,3,0.00,1.00
 UMP-45 | Caramel,1,0.00,1.00
 UMP-45 | Carbon Fiber,2,0.00,0.12
 UMP-45 | Corporal,3,0.05,0.75
-UMP-45 | Day Lily,3,0.00,1.00
+UMP-45 | Day Lily,3,0.00,0.55
 UMP-45 | Delusion,3,0.06,0.35
-UMP-45 | Exposure,4,0.00,1.00
-UMP-45 | Facility Dark,1,0.00,1.00
+UMP-45 | Exposure,4,0.00,0.55
+UMP-45 | Facility Dark,1,0.00,0.50
 UMP-45 | Fallout Warning,2,0.00,1.00
 UMP-45 | Grand Prix,4,0.25,0.35
 UMP-45 | Gunsmoke,2,0.00,1.00
 UMP-45 | Indigo,1,0.00,1.00
 UMP-45 | Labyrinth,3,0.00,0.40
-UMP-45 | Metal Flowers,3,0.00,1.00
+UMP-45 | Metal Flowers,3,0.00,0.70
 UMP-45 | Minotaur's Labyrinth,3,0.00,1.00
-UMP-45 | Momentum,5,0.00,1.00
-UMP-45 | Moonrise,4,0.00,1.00
+UMP-45 | Momentum,5,0.00,0.50
+UMP-45 | Moonrise,4,0.00,0.40
 UMP-45 | Mudder,1,0.00,1.00
-UMP-45 | Plastique,4,0.00,1.00
+UMP-45 | Plastique,4,0.00,0.80
 UMP-45 | Primal Saber,5,0.00,1.00
 UMP-45 | Riot,3,0.00,1.00
 UMP-45 | Scaffold,4,0.00,1.00
 UMP-45 | Scorched,1,0.00,1.00
 UMP-45 | Urban DDPAT,1,0.00,1.00
-XM1014 | Banana Leaf,2,0.00,1.00
-XM1014 | Black Tie,4,0.00,1.00
+XM1014 | Banana Leaf,2,0.00,0.60
+XM1014 | Black Tie,4,0.00,0.75
 XM1014 | Blaze Orange,3,0.00,1.00
 XM1014 | Blue Spruce,1,0.00,1.00
 XM1014 | Blue Steel,2,0.00,1.00
 XM1014 | Bone Machine,3,0.00,0.60
 XM1014 | CaliCamo,2,0.00,1.00
 XM1014 | Fallout Warning,2,0.00,1.00
-XM1014 | Frost Borre,3,0.00,1.00
+XM1014 | Frost Borre,3,0.00,0.50
 XM1014 | Grassland,1,0.00,1.00
 XM1014 | Heaven Guard,4,0.03,0.50
 XM1014 | Incinegator,5,0.00,1.00
@@ -436,7 +436,7 @@ XM1014 | Quicksilver,3,0.00,1.00
 XM1014 | Red Leather,3,0.00,0.56
 XM1014 | Red Python,3,0.08,0.50
 XM1014 | Scumbria,3,0.00,1.00
-XM1014 | Seasons,4,0.00,1.00
+XM1014 | Seasons,4,0.00,0.50
 XM1014 | Slipstream,3,0.00,1.00
 XM1014 | Teclu Burner,4,0.00,1.00
 XM1014 | Tranquility,5,0.00,1.00
@@ -477,7 +477,7 @@ MAG-7 | Cobalt Core,3,0.00,0.50
 MAG-7 | Core Breach,4,0.00,1.00
 MAG-7 | Counter Terrace,3,0.00,1.00
 MAG-7 | Firestarter,3,0.00,1.00
-MAG-7 | Hard Water,3,0.00,1.00
+MAG-7 | Hard Water,3,0.00,0.45
 MAG-7 | Hazard,3,0.00,1.00
 MAG-7 | Heat,4,0.00,1.00
 MAG-7 | Heaven Guard,3,0.00,0.40
@@ -486,7 +486,7 @@ MAG-7 | Justice,5,0.00,1.00
 MAG-7 | Memento,3,0.02,0.18
 MAG-7 | Metallic DDPAT,2,0.00,0.08
 MAG-7 | Petroglyph,4,0.00,1.00
-MAG-7 | Popdog,3,0.00,1.00
+MAG-7 | Popdog,3,0.00,0.80
 MAG-7 | Praetorian,4,0.00,0.45
 MAG-7 | Rust Coat,1,0.00,1.00
 MAG-7 | Sand Dune,1,0.00,1.00
@@ -494,7 +494,7 @@ MAG-7 | Seabird,1,0.00,1.00
 MAG-7 | Silver,2,0.00,0.08
 MAG-7 | Sonar,3,0.00,1.00
 MAG-7 | Storm,1,0.00,1.00
-MAG-7 | SWAG-7,4,0.00,1.00
+MAG-7 | SWAG-7,4,0.00,0.92
 Negev | Anodized Navy,3,0.00,1.00
 Negev | Army Sheen,1,0.00,0.30
 Negev | Boroque Sand,1,0.00,1.00
@@ -515,8 +515,8 @@ Negev | Terrain,3,0.00,0.45
 Sawed-Off | Amber Fade,3,0.00,0.40
 Sawed-Off | Apocalypto,4,0.00,1.00
 Sawed-Off | Bamboo Shadow,1,0.00,0.60
-Sawed-Off | Black Sand,3,0.00,1.00
-Sawed-Off | Brake Light,3,0.00,1.00
+Sawed-Off | Black Sand,3,0.00,0.90
+Sawed-Off | Brake Light,3,0.00,0.08
 Sawed-Off | Copper,3,0.00,1.00
 Sawed-Off | Devourer,5,0.00,1.00
 Sawed-Off | First Class,3,0.00,1.00
@@ -525,7 +525,7 @@ Sawed-Off | Fubar,3,0.00,1.00
 Sawed-Off | Full Stop,3,0.00,0.60
 Sawed-Off | Highwayman,4,0.00,1.00
 Sawed-Off | Irradiated Alert,1,0.00,1.00
-Sawed-Off | Jungle Thicket,1,0.00,1.00
+Sawed-Off | Jungle Thicket,1,0.00,0.50
 Sawed-Off | Limelight,4,0.00,1.00
 Sawed-Off | Morris,3,0.00,1.00
 Sawed-Off | Mosaico,2,0.00,1.00
@@ -536,20 +536,20 @@ Sawed-Off | Sage Spray,1,0.00,1.00
 Sawed-Off | Serenity,4,0.00,1.00
 Sawed-Off | Snake Camo,2,0.00,1.00
 Sawed-Off | The Kraken,6,0.00,1.00
-Sawed-Off | Wasteland Princess,5,0.00,1.00
+Sawed-Off | Wasteland Princess,5,0.00,0.70
 Sawed-Off | Yorick,3,0.00,1.00
 Sawed-Off | Zander,3,0.00,1.00
 Tec-9 | Army Mesh,1,0.00,1.00
 Tec-9 | Avalanche,4,0.00,1.00
 Tec-9 | Bamboo Forest,1,0.00,1.00
-Tec-9 | Bamboozle,4,0.00,1.00
+Tec-9 | Bamboozle,4,0.00,0.80
 Tec-9 | Blue Titanium,3,0.00,0.04
 Tec-9 | Brass,3,0.00,1.00
 Tec-9 | Cracked Opal,3,0.00,1.00
 Tec-9 | Cut Out,3,0.00,1.00
 Tec-9 | Decimator,5,0.00,1.00
-Tec-9 | Flash Out,3,0.00,1.00
-Tec-9 | Fubar,3,0.00,1.00
+Tec-9 | Flash Out,3,0.00,0.70
+Tec-9 | Fubar,3,0.14,1.00
 Tec-9 | Fuel Injector,5,0.00,1.00
 Tec-9 | Groundwater,1,0.00,1.00
 Tec-9 | Hades,2,0.00,1.00
@@ -560,9 +560,9 @@ Tec-9 | Nuclear Threat,4,0.00,1.00
 Tec-9 | Orange Murano,2,0.00,1.00
 Tec-9 | Ossified,3,0.00,1.00
 Tec-9 | Red Quartz,4,0.00,0.40
-Tec-9 | Re-Entry,4,0.00,1.00
+Tec-9 | Re-Entry,4,0.00,0.43
 Tec-9 | Remote Control,5,0.00,1.00
-Tec-9 | Rust Leaf,2,0.00,1.00
+Tec-9 | Rust Leaf,2,0.00,0.50
 Tec-9 | Sandstorm,3,0.10,0.70
 Tec-9 | Snek-9,3,0.00,1.00
 Tec-9 | Terrace,3,0.00,1.00
@@ -602,20 +602,20 @@ MP7 | Army Recon,1,0.00,1.00
 MP7 | Asterion,1,0.00,0.55
 MP7 | Bloodsport,6,0.00,1.00
 MP7 | Cirrus,3,0.00,1.00
-MP7 | Fade,4,0.00,1.00
+MP7 | Fade,4,0.00,0.25
 MP7 | Forest DDPAT,1,0.00,1.00
 MP7 | Full Stop,3,0.00,0.60
 MP7 | Groundwater,1,0.00,1.00
 MP7 | Gunsmoke,2,0.00,1.00
 MP7 | Impire,4,0.00,1.00
-MP7 | Mischief,3,0.00,1.00
-MP7 | Motherboard,2,0.00,1.00
+MP7 | Mischief,3,0.10,1.00
+MP7 | Motherboard,2,0.00,0.50
 MP7 | Nemesis,5,0.00,0.32
 MP7 | Neon Ply,4,0.00,1.00
 MP7 | Ocean Foam,4,0.00,1.00
 MP7 | Olive Plaid,1,0.00,1.00
 MP7 | Orange Peel,2,0.00,1.00
-MP7 | Powercore,4,0.00,1.00
+MP7 | Powercore,4,0.00,0.80
 MP7 | Scorched,1,0.00,1.00
 MP7 | Skulls,3,0.10,0.26
 MP7 | Special Delivery,4,0.00,1.00
@@ -623,10 +623,10 @@ MP7 | Teal Blossom,3,0.00,1.00
 MP7 | Urban Hazard,3,0.00,0.50
 MP7 | Whiteout,3,0.00,1.00
 MP9 | Airlock,5,0.00,1.00
-MP9 | Bioleak,3,0.00,1.00
+MP9 | Bioleak,3,0.00,0.50
 MP9 | Black Sand,3,0.00,1.00
 MP9 | Bulldozer,4,0.00,1.00
-MP9 | Capillary,3,0.00,1.00
+MP9 | Capillary,3,0.00,0.70
 MP9 | Dark Age,3,0.00,0.22
 MP9 | Dart,3,0.00,0.46
 MP9 | Deadly Poison,3,0.00,1.00
@@ -636,20 +636,20 @@ MP9 | Green Plaid,1,0.00,0.58
 MP9 | Hot Rod,3,0.00,1.00
 MP9 | Hydra,5,0.00,1.00
 MP9 | Hypnotic,4,0.00,0.08
-MP9 | Modest Threat,3,0.00,1.00
+MP9 | Modest Threat,3,0.00,0.75
 MP9 | Orange Peel,2,0.00,1.00
 MP9 | Pandora's Box,3,0.00,0.30
 MP9 | Rose Iron,4,0.00,1.00
 MP9 | Ruby Poison Dart,4,0.00,1.00
 MP9 | Sand Dashed,1,0.00,1.00
-MP9 | Sand Scale,3,0.00,1.00
+MP9 | Sand Scale,3,0.00,0.45
 MP9 | Setting Sun,3,0.00,1.00
 MP9 | Slide,1,0.00,1.00
-MP9 | Stained Glass,4,0.00,1.00
+MP9 | Stained Glass,4,0.00,0.50
 MP9 | Storm,1,0.00,1.00
 MP9 | Wild Lily,5,0.00,1.00
 Nova | Antique,5,0.00,1.00
-Nova | Baroque Orange,4,0.00,1.00
+Nova | Baroque Orange,4,0.00,0.50
 Nova | Blaze Orange,3,0.00,1.00
 Nova | Bloomstick,5,0.00,1.00
 Nova | Caged Steel,2,0.00,1.00
@@ -657,7 +657,7 @@ Nova | Candy Apple,2,0.00,0.30
 Nova | Exo,3,0.00,1.00
 Nova | Forest Leaves,1,0.00,1.00
 Nova | Ghost Camo,3,0.00,1.00
-Nova | Gila,4,0.00,1.00
+Nova | Gila,4,0.00,0.30
 Nova | Graphite,4,0.00,0.12
 Nova | Green Apple,2,0.00,0.30
 Nova | Hyper Beast,5,0.00,0.60
@@ -665,7 +665,7 @@ Nova | Koi,4,0.00,0.30
 Nova | Mandrel,1,0.00,1.00
 Nova | Modern Hunter,3,0.00,1.00
 Nova | Moon in Libra,1,0.00,0.50
-Nova | Plume,3,0.00,1.00
+Nova | Plume,3,0.00,0.80
 Nova | Polar Mesh,1,0.00,1.00
 Nova | Predator,1,0.00,1.00
 Nova | Ranger,3,0.00,1.00
@@ -674,22 +674,22 @@ Nova | Sand Dune,1,0.00,1.00
 Nova | Tempest,3,0.00,1.00
 Nova | Toy Soldier,4,0.00,1.00
 Nova | Walnut,1,0.00,1.00
-Nova | Wild Six,4,0.00,1.00
+Nova | Wild Six,4,0.00,0.80
 Nova | Wood Fired,3,0.00,1.00
-P250 | Asiimov,5,0.00,1.00
+P250 | Asiimov,5,0.10,1.00
 P250 | Bone Mask,1,0.00,1.00
 P250 | Boreal Forest,1,0.00,1.00
 P250 | Cartel,5,0.00,0.75
 P250 | Contamination,2,0.00,1.00
 P250 | Crimson Kimono,2,0.00,1.00
 P250 | Dark Filigree,2,0.00,1.00
-P250 | Exchanger,3,0.00,1.00
+P250 | Exchanger,3,0.00,0.50
 P250 | Facets,2,0.00,1.00
 P250 | Facility Draft,1,0.00,1.00
 P250 | Franklin,5,0.00,1.00
 P250 | Gunsmoke,2,0.00,1.00
 P250 | Hive,3,0.00,1.00
-P250 | Inferno,4,0.00,1.00
+P250 | Inferno,4,0.00,0.68
 P250 | Iron Clad,3,0.00,1.00
 P250 | Mehndi,5,0.00,1.00
 P250 | Metallic DDPAT,2,0.00,0.08
@@ -699,9 +699,9 @@ P250 | Muertos,5,0.00,0.60
 P250 | Nevermore,4,0.00,1.00
 P250 | Nuclear Threat,4,0.00,1.00
 P250 | Red Rock,4,0.00,1.00
-P250 | Ripple,3,0.00,1.00
+P250 | Ripple,3,0.00,0.50
 P250 | Sand Dune,1,0.00,1.00
-P250 | See Ya Later,6,0.00,1.00
+P250 | See Ya Later,6,0.00,0.70
 P250 | Splash,4,0.00,0.18
 P250 | Steel Disruption,3,0.00,0.20
 P250 | Supernova,4,0.00,0.40
@@ -713,9 +713,9 @@ P250 | Whiteout,3,0.00,1.00
 P250 | Wingshot,4,0.00,0.90
 P250 | X-Ray,4,0.00,1.00
 SCAR-20 | Army Sheen,1,0.00,0.30
-SCAR-20 | Assault,3,0.00,1.00
+SCAR-20 | Assault,3,0.00,0.62
 SCAR-20 | Bloodsport,5,0.00,1.00
-SCAR-20 | Blueprint,3,0.00,1.00
+SCAR-20 | Blueprint,3,0.00,0.75
 SCAR-20 | Brass,3,0.00,1.00
 SCAR-20 | Carbon Fiber,2,0.00,0.12
 SCAR-20 | Cardiac,5,0.00,1.00
@@ -732,15 +732,15 @@ SCAR-20 | Palm,2,0.00,1.00
 SCAR-20 | Powercore,4,0.00,1.00
 SCAR-20 | Sand Mesh,1,0.00,1.00
 SCAR-20 | Splash Jam,5,0.00,1.00
-SCAR-20 | Stone Mosaico,1,0.00,1.00
+SCAR-20 | Stone Mosaico,1,0.06,0.50
 SCAR-20 | Storm,1,0.00,1.00
-SCAR-20 | Torn,3,0.00,1.00
+SCAR-20 | Torn,3,0.00,0.45
 SG 553 | Aerial,3,0.00,1.00
 SG 553 | Aloha,3,0.00,1.00
 SG 553 | Anodized Navy,3,0.00,1.00
 SG 553 | Army Sheen,1,0.00,0.30
-SG 553 | Atlas,3,0.00,1.00
-SG 553 | Barricade,1,0.00,1.00
+SG 553 | Atlas,3,0.00,0.81
+SG 553 | Barricade,1,0.00,0.65
 SG 553 | Bulldozer,4,0.00,1.00
 SG 553 | Candy Apple,2,0.00,1.00
 SG 553 | Colony IV,5,0.00,1.00
@@ -751,7 +751,7 @@ SG 553 | Darkwing,4,0.00,1.00
 SG 553 | Fallout Warning,2,0.00,0.80
 SG 553 | Gator Mesh,2,0.00,0.60
 SG 553 | Integrale,5,0.00,1.00
-SG 553 | Phantom,4,0.00,1.00
+SG 553 | Phantom,4,0.00,0.60
 SG 553 | Pulse,4,0.10,0.60
 SG 553 | Tiger Moth,4,0.00,1.00
 SG 553 | Tornado,1,0.00,1.00
@@ -767,9 +767,9 @@ SSG 08 | Blood in the Water,6,0.00,0.20
 SSG 08 | Bloodshot,5,0.00,1.00
 SSG 08 | Blue Spruce,1,0.00,1.00
 SSG 08 | Dark Water,3,0.00,1.00
-SSG 08 | Death's Head,4,0.00,1.00
+SSG 08 | Death's Head,4,0.00,0.51
 SSG 08 | Detour,3,0.00,1.00
-SSG 08 | Dragonfire,6,0.00,1.00
+SSG 08 | Dragonfire,6,0.00,0.50
 SSG 08 | Fever Dream,4,0.00,1.00
 SSG 08 | Ghost Crusader,4,0.00,1.00
 SSG 08 | Hand Brake,3,0.00,1.00
@@ -777,9 +777,9 @@ SSG 08 | Lichen Dashed,1,0.00,1.00
 SSG 08 | Mayan Dreams,2,0.00,1.00
 SSG 08 | Necropos,3,0.00,1.00
 SSG 08 | Orange Filigree,3,0.00,1.00
-SSG 08 | Red Stone,1,0.00,1.00
+SSG 08 | Red Stone,1,0.06,0.50
 SSG 08 | Sand Dune,1,0.00,1.00
-SSG 08 | Sea Calico,4,0.00,1.00
+SSG 08 | Sea Calico,4,0.00,0.50
 SSG 08 | Slashed,3,0.15,0.80
 SSG 08 | Tropical Storm,2,0.00,1.00
 M4A1-S | Atomic Alloy,5,0.00,1.00
@@ -792,7 +792,7 @@ M4A1-S | Chantico's Fire,6,0.00,1.00
 M4A1-S | Control Panel,5,0.00,1.00
 M4A1-S | Cyrex,6,0.00,0.50
 M4A1-S | Dark Water,4,0.00,1.00
-M4A1-S | Decimator,5,0.00,1.00
+M4A1-S | Decimator,5,0.00,0.85
 M4A1-S | Flashback,4,0.00,1.00
 M4A1-S | Golden Coil,6,0.00,1.00
 M4A1-S | Guardian,5,0.00,0.50
@@ -838,7 +838,7 @@ CZ75-Auto | Crimson Web,3,0.00,1.00
 CZ75-Auto | Distressed,3,0.00,1.00
 CZ75-Auto | Eco,4,0.00,1.00
 CZ75-Auto | Emerald,3,0.00,1.00
-CZ75-Auto | Emerald Quartz,3,0.00,1.00
+CZ75-Auto | Emerald Quartz,3,0.00,0.70
 CZ75-Auto | Green Plaid,1,0.00,0.58
 CZ75-Auto | Hexane,3,0.00,0.40
 CZ75-Auto | Imprint,3,0.00,1.00
@@ -846,7 +846,7 @@ CZ75-Auto | Indigo,1,0.00,1.00
 CZ75-Auto | Nitro,3,0.06,0.80
 CZ75-Auto | Poison Dart,3,0.00,1.00
 CZ75-Auto | Pole Position,4,0.00,1.00
-CZ75-Auto | Polymer,3,0.00,1.00
+CZ75-Auto | Polymer,3,0.00,0.50
 CZ75-Auto | Red Astor,4,0.00,1.00
 CZ75-Auto | Tacticat,4,0.00,1.00
 CZ75-Auto | The Fuschia Is Now,5,0.00,0.40
@@ -865,8 +865,8 @@ R8 Revolver | Crimson Web,3,0.00,1.00
 R8 Revolver | Fade,6,0.00,0.40
 R8 Revolver | Grip,3,0.00,1.00
 R8 Revolver | Llama Cannon,5,0.00,1.00
-R8 Revolver | Memento,3,0.00,1.00
+R8 Revolver | Memento,3,0.00,0.80
 R8 Revolver | Nitro,2,0.00,1.00
 R8 Revolver | Reboot,4,0.00,1.00
-R8 Revolver | Skull Crusher,5,0.00,1.00
-R8 Revolver | Survivalist,3,0.00,1.00
+R8 Revolver | Skull Crusher,5,0.25,0.80
+R8 Revolver | Survivalist,3,0.00,0.70
