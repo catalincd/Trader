@@ -69,7 +69,7 @@ Five-SeveN | Hot Shot,2,0.00,1.00,The Cache Collection
 Five-SeveN | Hyper Beast,6,0.00,1.00,Operation Hydra Case
 Five-SeveN | Jungle,1,0.00,1.00,The Aztec Collection
 Five-SeveN | Kami,3,0.00,0.30,Winter Offensive Weapon Case
-Five-SeveN | Monkey Business,5,0.00,1.00,Chroma 2 Case
+Five-SeveN | Monkey Business,5,0.10,0.90,Chroma 2 Case
 Five-SeveN | Neon Kimono,4,0.00,1.00,The Rising Sun Collection
 Five-SeveN | Nightshade,3,0.00,1.00,eSports 2013 Winter Case
 Five-SeveN | Nitro,3,0.00,1.00,The Chop Shop Collection
@@ -337,7 +337,7 @@ MAC-10 | Indigo,1,0.00,1.00,The Cobblestone Collection
 MAC-10 | Lapis Gator,3,0.00,1.00,Operation Wildfire Case
 MAC-10 | Last Dive,4,0.00,1.00,Spectrum Case
 MAC-10 | Malachite,4,0.00,0.50,Chroma Case
-MAC-10 | Neon Rider,6,0.00,1.00,Chroma 2 Case
+MAC-10 | Neon Rider,6,0.00,0.45,Chroma 2 Case
 MAC-10 | Nuclear Garden,3,0.00,0.70,The Cache Collection
 MAC-10 | Oceanic,3,0.00,1.00,Spectrum 2 Case
 MAC-10 | Palm,2,0.00,1.00,The Dust 2 Collection

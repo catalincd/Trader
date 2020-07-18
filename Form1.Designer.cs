@@ -36,7 +36,13 @@
             this.button1 = new System.Windows.Forms.Button();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.vScrollBar1 = new System.Windows.Forms.VScrollBar();
+            this.button2 = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -61,14 +67,14 @@
             // saveToolStripMenuItem1
             // 
             this.saveToolStripMenuItem1.Name = "saveToolStripMenuItem1";
-            this.saveToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.saveToolStripMenuItem1.Size = new System.Drawing.Size(102, 22);
             this.saveToolStripMenuItem1.Text = "save";
             this.saveToolStripMenuItem1.Click += new System.EventHandler(this.SaveToolStripMenuItem1_Click);
             // 
             // parseToolStripMenuItem
             // 
             this.parseToolStripMenuItem.Name = "parseToolStripMenuItem";
-            this.parseToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.parseToolStripMenuItem.Size = new System.Drawing.Size(102, 22);
             this.parseToolStripMenuItem.Text = "parse";
             this.parseToolStripMenuItem.Click += new System.EventHandler(this.ParseToolStripMenuItem_Click);
             // 
@@ -96,6 +102,7 @@
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(523, 23);
             this.progressBar1.TabIndex = 5;
+            this.progressBar1.Value = 100;
             // 
             // comboBox2
             // 
@@ -105,11 +112,59 @@
             this.comboBox2.Size = new System.Drawing.Size(216, 21);
             this.comboBox2.TabIndex = 6;
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(12, 99);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(67, 17);
+            this.checkBox1.TabIndex = 8;
+            this.checkBox1.Text = "StatTrak";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.vScrollBar1);
+            this.panel1.Controls.Add(this.label1);
+            this.panel1.Location = new System.Drawing.Point(12, 205);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(269, 180);
+            this.panel1.TabIndex = 9;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(4, 4);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(41, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Guns...";
+            // 
+            // vScrollBar1
+            // 
+            this.vScrollBar1.Location = new System.Drawing.Point(252, 0);
+            this.vScrollBar1.Name = "vScrollBar1";
+            this.vScrollBar1.Size = new System.Drawing.Size(17, 180);
+            this.vScrollBar1.TabIndex = 1;
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(436, 362);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(99, 23);
+            this.button2.TabIndex = 10;
+            this.button2.Text = "Save File";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.Button2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(547, 397);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.button1);
@@ -121,6 +176,8 @@
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -135,6 +192,11 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.ProgressBar progressBar1;
         private System.Windows.Forms.ComboBox comboBox2;
+        private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.VScrollBar vScrollBar1;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button2;
     }
 }
 
