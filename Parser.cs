@@ -26,12 +26,14 @@ namespace Trader
         {
             string path = Application.StartupPath + @"\weapons.txt";
             string paintkitsPath = Application.StartupPath + @"\paintkits.json";
+            string floatsPath = Application.StartupPath + @"\floats.json";
             string writePath = Application.StartupPath + @"\baseFull.txt";
             string json = File.ReadAllText(path);
             string paintKitsJson = File.ReadAllText(paintkitsPath);
+            string floatsJson = File.ReadAllText(floatsPath);
             WeaponClass weapon = JsonSerializer.Deserialize<WeaponClass>(json);
             Paintkits paintkits = JsonSerializer.Deserialize<Paintkits>(paintKitsJson);
-
+            FloatPaintKit floatPaintKit = JsonSerializer.Deserialize<FloatPaintKit>(floatsJson); 
 
             List<string> content = new List<string>();
 
@@ -45,13 +47,23 @@ namespace Trader
                     newRow.weapon = i.Key;
                     newRow.name = paintkits.names[q.paintkit_names[t]];
                     newRow.rarity = "" + q.paintkit_rarities[t];
+                    newRow.min = 0.0f;
+                    newRow.max = 1.0f;
+
+                    if(floatPaintKit.pairs.ContainsKey(q.paintkit_names[t]))
+                    {
+                        FloatRange thisRange = floatPaintKit.pairs[q.paintkit_names[t]];
+                        newRow.min = thisRange.min;
+                        newRow.max = thisRange.max;
+                    }
+
                     rows.Add(newRow);
                 }
                 rows.Sort(new Comparator());
 
                 foreach(WeaponRow row in rows)
                 {
-                    content.Add(row.weapon + " | " + row.name + "," + row.rarity);
+                    content.Add(row.weapon + " | " + row.name + "," + row.rarity + "," + row.min.ToString("0.00") + "," + row.max.ToString("0.00"));
                 }
             }
 
@@ -143,8 +155,21 @@ namespace Trader
             File.WriteAllLines(outPath, output);
         }
 
-        public void parse2()
+        public static void parse2()
         {
+            string path = Application.StartupPath + @"\base.txt";
+            string pathFull = Application.StartupPath + @"\baseFull.txt";
+            string pathOut = Application.StartupPath + @"\baseFinal.txt";
+            string[] lines = File.ReadAllLines(pathFull);
+            string[] linesAdd = File.ReadAllLines(path);
+
+            for(int i=0;i<lines.Length;i++)
+            {
+                string[] values = linesAdd[i].Split(',');
+                lines[i] += "," + values[values.Length - 1];
+            }
+
+            File.WriteAllLines(pathOut, lines);
 
         }
     }
@@ -156,6 +181,8 @@ namespace Trader
         public string weapon;
         public string name;
         public string rarity;
+        public float min;
+        public float max;
     }
 
     public class Comparator : IComparer<WeaponRow>

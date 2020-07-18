@@ -14,61 +14,45 @@ namespace Trader
 {
     public partial class Form1 : Form
     {
+        string[] skins = null;
+        string currentCollection;
+        string currentCondition;
         public Form1()
         {
             InitializeComponent();
         }
-
-
-
         private void Form1_Load(object sender, EventArgs e)
         {
-            dataGridView1.Columns.Add("Name", "Name");
-            dataGridView1.Columns.Add("Rarity", "Rarity");
-            dataGridView1.Columns.Add("Collection", "Collection");
-
-            string path = Application.StartupPath + @"\base.txt";
-            string[] lines = File.ReadAllLines(path);
-            for (int i = 0; i < lines.Length; i++)
+            string colPath = Application.StartupPath + @"\collections.txt";
+            string[] lines = File.ReadAllLines(colPath); 
+            foreach(string q in lines)
             {
-                string[] words = lines[i].Split(',');
-                dataGridView1.Rows.Add(words);
+                comboBox1.Items.Add(q);
             }
+            comboBox2.Items.Add("Factory New");
+            comboBox2.Items.Add("Minimal Wear");
+            comboBox2.Items.Add("Field Tested");
+            comboBox2.Items.Add("Well Worn");
+            comboBox2.Items.Add("Battle Scarred");
+
+            string skinsPath = Application.StartupPath + @"\baseFinal.txt";
+            skins = File.ReadAllLines(skinsPath);
         }
-
-
         private void SaveToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            List<string> content = new List<string>();
-            foreach(DataGridViewRow row in dataGridView1.Rows)
-            {
-                try
-                {
-                    string newString = "";
-                    if (row.Cells == null)
-                        continue;
-                    if (row.Cells["Name"].Value != null)
-                        newString += row.Cells["Name"].Value.ToString();
-                    if (row.Cells["Rarity"].Value != null)
-                        newString += "," + row.Cells["Rarity"].Value.ToString();
-                    if(row.Cells["Collection"].Value != null)
-                        newString += "," + row.Cells["Collection"].Value.ToString();
-                    content.Add(newString);
-                }
-                catch(Exception xe)
-                {
-                    MessageBox.Show(xe.Message);
-                }
-            }
-            string path = Application.StartupPath + @"\base.txt";
-            File.WriteAllLines(path, content);
+            
         }
-
         private void ParseToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Parser.parse2();
-            //FloatRange range = new FloatRange();
-            //MessageBox.Show(JsonSerializer.Serialize<FloatRange>(range));
+            
+        }
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            button1.Enabled = false;
+            currentCollection = comboBox1.SelectedItem.ToString();
+            currentCondition = comboBox2.SelectedItem.ToString();
+
+
         }
     }
 }

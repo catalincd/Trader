@@ -13,6 +13,22 @@ namespace Trader
 {
     public class Price
     {
+
+        public static string GetPrice(string weaponName)
+        {
+            string url = @"http://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=";
+            string response = GetResponse(url + weaponName);
+            ReqResponse req = JsonSerializer.Deserialize<ReqResponse>(response);
+
+            return req.lowest_price.Substring(0, req.lowest_price.Length - 1);
+        }
+
+        public static float GetPriceFloat(string weaponName)
+        {
+            string price = GetPrice(weaponName);
+            price = price.Replace(",", ".");
+            return float.Parse(price);
+        }
         public static string GetPrice(Skin skin, SkinArgs args)
         {
             string url = @"http://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=";
